@@ -1,0 +1,116 @@
+body,html,div{
+    margin: 0;
+    padding: 0;
+}
+html{
+    height: 100%;
+    color: #000;
+    background: #fff;
+    overflow-y: scroll;
+}
+body{
+    color: #333;
+    /*font-size: .75rem;*/
+    line-height: 1;
+    height: 100%;
+    box-sizing: border-box;
+    overflow-y: auto;
+    background-color: #f5f5f5;
+
+}
+.page{
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    position: relative;
+}
+.header{
+    height: 2.5625rem;
+    padding: 0 .85rem;
+    font-size: 1rem;
+    border-bottom: 1px solid #eee;
+    background: #fff;
+    display: -webkit-box;
+/*//Webkit内核的浏览器，必须加上-webkit前缀。*/
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.header .head-back-box{
+    width: 1.125rem;
+}
+.head-back{
+    width: .46875rem;
+    height: .84375rem;
+    background: url("../images/fanhui.png") no-repeat;
+    background-size: 100% 100%;
+}
+.head-home{
+    width: 1.125rem;
+    height: 1.125rem;
+    background: url("../images/head-home.png") no-repeat;
+    background-size: 100% 100%;
+}
+.cart-no-goods{
+    -webkit-box-flex: 1;
+    justify-content: center;
+    -webkit-box-align: center;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    align-items: center;
+    flex: 1;
+    background: #fff;
+}
+.cart-no-goods .oops{
+    width: 5.375rem;
+    height: 5.125rem;
+    background: url("../images/no-card-oops.png") no-repeat;
+    background-size: 100% 100%;
+}
+.cart-no-goods .empty-cart{
+    font-size: .875rem;
+    line-height: .9375rem;
+    color: #333;
+    margin-top: 1rem;
+    padding: 0 4.75rem;
+    text-align: center;
+}
+.cart-no-goods .go-stroll{
+    width: 7.8125rem;
+    height: 2.25rem;
+    border-radius: 1.25rem;
+    color: #fff;
+    background: #fe4070;
+    line-height: 2.25rem;
+    text-align: center;
+    margin-top: 1.4375rem;
+    font-size: .8125rem;
+
+}
+
+.bottom-nav{
+    width: 23.4375rem;
+    height: 3.0625rem;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+    box-sizing: border-box;
+    line-height: normal;
+}
+.bottom-nav a{
+    position: relative;
+    top: .15rem;
+}
+.bottom-nav  a p{
+     padding-top: .03rem;
+     margin-top: 0px;
+}

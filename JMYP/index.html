@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <meta name="viewport" content="initial-scale=1, width=device-width, user-scalable=no">
+    <link rel="stylesheet" href="swiper/swiper-3.4.2.min.css">
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/mainFoot.css"/>
+    <link rel="stylesheet" href="//at.alicdn.com/t/font_j90092g6hamm42t9.css">
+    <link rel="stylesheet" href=" //at.alicdn.com/t/font_r7rl8kb9daxuhaor.css">
+    <link rel="stylesheet" href="//at.alicdn.com/t/font_79xhrgnzv14qjjor.css"/>
+    <script src="js/jquery3.2.0.js"></script>
+    <script src="js/jquery.js"></script>
+    <script src="js/mainFoot.js"></script>
+
+    <!--<script type="text/javascript" src="swiper/swiper-3.4.2.min.js"></script>-->
+
+
+
+</head>
+
+<body>
+<!--导航模块-->
+   <header>
+         <a class="index-search">
+             <span class="iconfont icon-fangdajing"></span>
+             <span class="search-name">搜索商品 分类 功效</span>
+         </a>
+       <span class="search-action iconfont icon-chazhaobiaodanliebiao"></span>
+   </header>
+
+   <div class="searchWrap">
+       <div class="show"></div>
+       <div class="search_big">
+           <div class="search-box">
+               <a id="history_back" class="history_back"><span class="iconfont icon-mjiantou-copy" ></span></a>
+               <div class="input-box">
+                   <span class="iconfont icon-fangdajing"></span>
+                   <label for="searchValue">
+                       <input type="text" class="searchValue " id="searchValue" placeholder="搜索商品名称、品牌、功效">
+                   </label>
+               </div>
+               <a class="search-cancel">搜索</a>
+           </div>
+       </div>
+       <div class="search_page " >
+           <div class="search-head">
+               <div class="input_outer">
+                   <span class="iconfont icon-fangdajing"></span>
+                   <label for="inputValue">
+                       <input type="text" id="inputValue" placeholder="搜索商品名称、品牌、功效">
+                   </label>
+               </div>
+               <a id="search_back" class="search_btn">返回</a>
+           </div>
+           <ul class="search-sorts">
+
+           </ul>
+       </div>
+   </div>
+<script id="ListTemp" type="text/html">
+    <li data-flags=true class="search_sort">
+        {{name}}
+        <span class="arrow"></span>
+        <ul class="search_subs">
+            {{each sub_categories as value i}}
+            <li class="search_sub">
+                <a>{{value.name}}</a>
+            </li>
+            {{/each}}
+        </ul>
+    </li>
+</script>
+   <div id="header_nav" class="header_nav">
+       <div class="nav-outer" id="nav-outer">
+               <div class="nav-inner clearfix">
+                   <p class="navTitle nt_deal">
+                       <a>
+                           <span >首页</span>
+                           <span class="header-nav-line"></span>
+                       </a>
+                   </p>
+                   <p class="navTitle nt_deal">
+                       <a>
+                           <span>极速免税店</span>
+                           <span class=""></span>
+                       </a>
+                   </p>
+                   <p class="navTitle nt_deal">
+                       <a>
+                           <span>母婴</span>
+                           <span class=""></span>
+                       </a>
+                   </p>
+                   <p class="navTitle nt_deal">
+                       <a>
+                           <span>轻奢</span>
+                           <span class="underline"></span>
+                       </a>
+                   </p>
+                   <p class="navTitle nt_deal">
+                       <a>
+                           <span>名片特卖</span>
+                           <span class=""></span>
+                       </a>
+                   </p>
+               </div>
+       </div>
+   </div>
+    <!--商品展示模块-->
+   <section class="goods-list" >
+       <div class="tab-title">
+           <span class="title-item tab-click">今日10点上新</span>
+           <span class="title-item">明日10点预告</span>
+       </div>
+       <div class="online_wrap list" style="display: block">
+       </div>
+       <div class="pre_wrap list" style="display: none"></div>
+   </section>
+   <a class="goto-top"></a>
+<script id="goodsTemp1" type="text/html">
+    <a href="{{h5_url}}" class="product-item">
+        <div class="item-each del-item">
+
+            <div class="product-info">
+                <div class="product-title">
+                    {{qrshare_product_name}}
+                </div>
+                <div class="price-wrap">
+                    <div class="price-list">
+                        <span class="jumei-price">¥<span>{{jumei_price}}</span></span>
+                        <span class="del-price">¥{{market_price}}</span>
+                    </div>
+                    <div class="buy-num">{{product_desc}}</div>
+                </div>
+            </div>
+        </div>
+    </a>
+</script>
+<script id="goodsTemp2" type="text/html">
+    <a href="{{h5_url }}" class="product-item">
+        <div class="item-each del-item">
+
+        </div>
+    </a>
+</script>
+<script id="goodsTemp3" type="text/html">
+    <a href="{{h5_url }}" class="product-item">
+        <div class="item-each del-item">
+
+            <div class="product-info">
+                <div class="product-title">
+                    {{qrshare_product_name}}
+                </div>
+                <div class="price-wrap">
+                    <div class="price-list">
+                        <span class="jumei-price">¥<span>{{jumei_price}}</span></span>
+                        <span class="del-price">¥{{market_price}}</span>
+                    </div>
+                    <div class="buy-num">{{product_desc}}</div>
+                </div>
+            </div>
+        </div>
+    </a>
+</script>
+<script id="goodsTemp4" type="text/html">
+    <a href="{{h5_url }}" class="product-item">
+        <div class="item-each del-item">
+
+        </div>
+    </a>
+</script>
+   <script type="text/javascript">
+    //商品信息列表切换
+    var items=document.querySelectorAll('.goods-list .tab-title .title-item ');
+    var lists=document.querySelectorAll('.goods-list .list');
+    for(var i=0;i<items.length;i++){
+        items[i].index=i;
+        items[i].onclick=function(){
+            for(j=0;j<lists.length;j++){
+                lists[j].style.display="none"
+            }
+            lists[this.index].style.display="block";
+        }
+    }
+
+
+    $('.navTitle a').on("click",function(){
+        $('.navTitle a ').children().removeClass("header-nav-line")
+        $(this).children().last().addClass("header-nav-line title-item")
+      });
+
+    $(".title-item").on("click",function(){
+        $(this).addClass("tab-click").siblings().removeClass("tab-click");
+    })
+
+    $(".show").click(function () {
+        hide();
+    });
+    $(".icon-chazhaobiaodanliebiao").click(function () {
+       show();
+    });
+
+    $('.search_btn').on("click",function(){
+        hide();
+    })
+
+    $('.index-search').on("click",function(){
+        $(".show").show();
+        $('.search_big').stop(true).animate({
+            right: "0", easing: "easein",
+        }, 300, function () {
+            // Animation complete.
+        });
+    });
+    $(".history_back").click(function(){
+           $(".show").show();
+           $('.search_big').css("right","-100%");
+           $('.search_page').css("left","15.625%");
+    });
+    $('#inputValue').click(function(){
+        $('.search_page').css("left","100%");
+        $('.search_big').css("right","0");
+
+    });
+
+    $(window).scroll(function (e) {
+        if($(window).scrollTop()>50){
+          $('#header_nav').addClass('fix-menu')
+        }else {
+            $('#header_nav').removeClass('fix-menu')
+        }
+        if($(window).scrollTop()>=300){
+            $('.goto-top').show('fast');
+        }else {
+            $('.goto-top').hide('fast');
+        }
+    })
+
+   //gotop按钮回到顶点
+   $('.goto-top').on("click",function () {
+      $('body').animate({
+          scrollTop: 0,
+      },300)
+   });
+
+//分类列表
+//       var open=$('.search_page .search-sorts li').show();
+
+
+
+//   菜单滑动
+    var flag;
+    $('.nav-outer')[0].addEventListener("touchstart",function (e) {
+
+       var e=e || window.event
+        startX =e.touches[0].clientX;
+    });
+    $('.nav-outer')[0].addEventListener("touchmove" ,  function (e) {
+        e.preventDefault();
+            e = e || window.event;
+            var offsetX = e.touches[0].clientX - startX;
+//            console.log(offsetX)
+            $('.nav-outer').css("transition","transform 0s");
+            if(offsetX>=0){
+                $('.nav-outer').css("transform","translateX(0px)");
+            }
+            else if(offsetX<=-15){
+                $('.nav-outer').css("transform","translateX(-15px)");
+            }
+            else {
+                $('.nav-outer').css("transform","translateX("+offsetX+"px)");
+            }
+            flag = false;
+
+    }, false);
+
+
+
+    loadFoot(0);
+   </script>
+   <script src= "js/artTemplate.js"></script>
+   <script src="js/index.js"></script>
+   <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,198 @@
+html,body,li,ul,a,div{
+    margin: 0;
+    padding: 0;
+}
+html{font-size: 18.75px}
+a, div, footer, form, h1, h2, h3, header, input, li, p, section, span, ul {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+body{
+    background-color: #ccc;
+}
+.nav-con{
+    border-bottom: solid .0625rem #f5f5f5;
+    width: 100%;
+    z-index: 2;
+    overflow: hidden;
+    position: fixed;
+    left:0;
+    top:0;
+}
+.nav-include{
+    height: 44px;
+    overflow-y: hidden;
+
+
+}
+.list-tab{
+    width: 1052px;
+    padding: 0 1.125rem;
+    white-space: nowrap;
+    border-bottom: .0625rem solid #eee;
+    background: #fff;
+    z-index: 10;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+.list-tab a {
+    font-size: 14px;
+    height: 44px;
+    line-height: 44px;
+    padding: 0 .125rem;
+    color: #666;
+    display: inline-block;
+    text-align: center;
+    position: relative;
+}
+.list-tab a.active {
+    color: #fe4070;
+}
+.list-tab a span{
+    display: none;
+}
+.list-tab a.active span{
+    display: block;
+    background: #fe4070;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: .125rem;
+    border-top-left-radius: .375rem;
+    border-top-right-radius: .375rem;
+}
+
+
+/*内容*/
+.tabcon-ptop{
+    padding-top: 44px;
+    margin-bottom: 2.613rem;
+}
+
+.product-item .product-con li{
+    margin-bottom: 8px;
+    background: #fff
+}
+
+.product-item .product-con li a{
+    width: 100%;
+    display: block;
+    overflow: hidden;
+    position: relative;
+}
+.product-item .product-con li a .people-number{
+    position: absolute;
+    left: 0;
+    top: 5.875rem;
+    z-index: 1;
+    border: .0625rem solid #eee;
+    border-left: 0;
+    border-top-right-radius: 1.5625rem;
+    border-bottom-right-radius: 1.5625rem;
+    color: #666;
+    background: rgba(251,251,251,.8);
+    font-size: 11px;
+    padding: 4px 7px;
+}
+.product-item .product-con li a .goods-topsmall{
+    overflow: hidden;
+    text-align: center;
+}
+.product-item .product-con li a .goods-topsmall img{
+    margin: 0 auto;
+    height: 8rem;
+}
+.product-item .product-con li a  .goods-middle{
+    font-size: 14px;
+    max-height: 34px;
+    line-height: 18px;
+    padding: 0 12px;
+    margin-top: 10px;
+    color: #424242;
+    overflow: hidden;
+}
+.product-item .product-con li a  .goods-middle .goods-num{
+    margin-left: 2px;
+    color: #fe4070;
+    display: inline-block;
+}
+.product-item .product-con li a  .goods-foot{
+    padding: 12px 12px 12px 12px;
+    overflow: hidden;
+}
+.product-item .product-con li a  .goods-foot .price-left{
+    float: left;
+    font-family: Arial;
+}
+.product-item .product-con li a  .goods-foot .price-left .ct-price{
+    font-size: 18px;
+    color: #fe4070;
+}
+.product-item .product-con li a  .goods-foot .price-left .sc-price{
+    font-size: 12px;
+    padding-left: 4px;
+    color: #999;
+    text-decoration: line-through;
+}
+.product-item .product-con li a  .goods-foot .price-left .jm-price{
+    font-size: 11px;
+    color: #999;
+    display: block;
+}
+.product-item .product-con li a  .goods-foot .time-right{
+    float: right;
+    border: .0625rem solid #fe4070;
+    margin-top: .25rem;
+    background: #fe4070;
+    border-radius: 25px;
+}
+.product-item .product-con li a  .goods-foot .time-right .goods-btn{
+    height: 26px;
+    line-height: 26px;
+    font-size: 14px;
+    border-radius: 25px;
+    color:#fff;
+    width: 4.6875rem;
+    text-align: center;
+    float: right;
+    border-right:.0625rem solid #fe4070;
+}
+.goto-top{
+    position: fixed;
+    bottom: 3.125rem;
+    width: 2.133rem;
+    height: 2.133rem;
+    z-index: 25;
+    right: .8rem;
+    opacity: 1;
+    background: url(//f0.jmstatic.com/btstatic/h5/common/go_top2.png) 0/contain no-repeat!important;
+    /*display: none;*/
+}
+.go_to{
+    width: 2.1875rem;
+    height: 2.1875rem;
+    position: fixed;
+    right: .75rem;
+    bottom: 2.75rem;
+    display: none;
+}
+.go_to img{
+    width: 2.1875rem;
+}
+
+.tabcon-ptop  .moudule-container{
+    display: none;
+}
+.tabcon-ptop .tab-on{
+    display: block;
+}

@@ -1,0 +1,44 @@
+.bottom-nav{
+    position: fixed;
+    z-index: 17;
+    width:100%;
+    left: 0;
+    bottom: 0;
+    height: 2.613rem;
+    text-align: center;
+    /*text-align: center;*/
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+    border-top: 1px solid rgb(238, 238, 238);
+}
+
+.bottom-nav  a{
+    display: inline-block;
+    width: 20%;
+    color: #999;
+    text-align: center;
+    font-size: 12px;
+    text-decoration: none;
+    height: 2.613rem;
+    box-sizing: border-box;
+    position: relative;
+    padding-top: .15rem;
+    margin: 0 .2rem;
+}
+.bottom-nav  a p{
+    padding-top: .03rem;
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+
+
+}
+.bottom-nav a .iconfont{
+    font-size: 22px;
+}
+.bottom-nav a.remind{
+     color: #fe4070;
+}
+
+
+
+

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <meta name="viewport" content="initial-scale=1, width=device-width, user-scalable=no">
+    <script src="js/jquery3.2.0.js"></script>
+    <script src="js/mainFoot.js"></script>
+    <link rel="stylesheet" href="css/mainFoot.css">
+    <link rel="stylesheet" href="css/shopcart.css">
+    <link rel="stylesheet" href="//at.alicdn.com/t/font_79xhrgnzv14qjjor.css"/>
+
+
+</head>
+<body>
+<div class="page">
+    <div class="header">
+        <div class="head-back-box">
+            <div class="head-back"></div>
+        </div>
+        <div class="head-title">购物车</div>
+        <div class="head-home"></div>
+    </div>
+    <div class="cart-no-goods">
+        <div class="oops"></div>
+        <div class="empty-cart">您的购物车中没有商品，请先去挑选心爱的商品吧！</div>
+        <div class="go-stroll">去逛逛</div>
+    </div>
+</div>
+<script>
+    $('.head-home').on("click",function () {
+        window.location.assign("index.html")
+    })
+
+    loadFoot(2);
+</script>
+</body>
+</html>

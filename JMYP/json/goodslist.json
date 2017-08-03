@@ -1,0 +1,1700 @@
+{
+  "nav": {
+    "tab_online_name": "\u4eca\u65e510\u70b9\u4e0a\u65b0",
+    "tab_online_desc": "",
+    "tab_online_image": {
+      "on_image": {
+        "320": "http:\/\/mp5.jmstatic.com\/mobile\/icon\/formalon.png?20160112&imageView2\/2\/w\/320\/q\/90",
+        "480": "http:\/\/mp5.jmstatic.com\/mobile\/icon\/formalon.png?20160112&imageView2\/2\/w\/480\/q\/90",
+        "640": "http:\/\/mp5.jmstatic.com\/mobile\/icon\/formalon.png?20160112&imageView2\/2\/w\/640\/q\/90",
+        "800": "http:\/\/mp5.jmstatic.com\/mobile\/icon\/formalon.png?20160112&imageView2\/2\/w\/800\/q\/90"
+      },
+      "off_image": {
+        "320": "http:\/\/mp5.jmstatic.com\/mobile\/icon\/formaloff3.png?20160307&imageView2\/2\/w\/320\/q\/90",
+        "480": "http:\/\/mp5.jmstatic.com\/mobile\/icon\/formaloff3.png?20160307&imageView2\/2\/w\/480\/q\/90",
+        "640": "http:\/\/mp5.jmstatic.com\/mobile\/icon\/formaloff3.png?20160307&imageView2\/2\/w\/640\/q\/90",
+        "800": "http:\/\/mp5.jmstatic.com\/mobile\/icon\/formaloff3.png?20160307&imageView2\/2\/w\/800\/q\/90"
+      },
+      "on_color": "#FE4070",
+      "off_color": "#777777"
+    },
+    "tab_preshow_name": "\u660e\u65e510\u70b9\u9884\u544a",
+    "tab_preshow_desc": "",
+    "tab_preshow_num": 126,
+    "tab_preshow_image": {
+      "on_image": {
+        "320": "http:\/\/mp4.jmstatic.com\/mobile\/icon\/preon.png@base@tag=imgScale&w=320&q=90?20160112",
+        "480": "http:\/\/mp5.jmstatic.com\/mobile\/icon\/preon.png?20160112&imageView2\/2\/w\/480\/q\/90",
+        "640": "http:\/\/mp5.jmstatic.com\/mobile\/icon\/preon.png?20160112&imageView2\/2\/w\/640\/q\/90",
+        "800": "http:\/\/mp5.jmstatic.com\/mobile\/icon\/preon.png?20160112&imageView2\/2\/w\/800\/q\/90"
+      },
+      "off_image": {
+        "320": "http:\/\/mp5.jmstatic.com\/mobile\/icon\/preoff3.png?20160307&imageView2\/2\/w\/320\/q\/90",
+        "480": "http:\/\/mp5.jmstatic.com\/mobile\/icon\/preoff3.png?20160307&imageView2\/2\/w\/480\/q\/90",
+        "640": "http:\/\/mp5.jmstatic.com\/mobile\/icon\/preoff3.png?20160307&imageView2\/2\/w\/640\/q\/90",
+        "800": "http:\/\/mp5.jmstatic.com\/mobile\/icon\/preoff3.png?20160307&imageView2\/2\/w\/800\/q\/90"
+      },
+      "on_color": "#FE4070",
+      "off_color": "#777777"
+    }
+  },
+  "act_icon_map": {
+    "add_cart": "http:\/\/p0.jmstatic.com\/mobile\/api\/icon\/addcart_single.png",
+    "add_cart_plus": "http:\/\/p0.jmstatic.com\/mobile\/api\/icon\/addcart_single_plus.png",
+    "add_wish": "http:\/\/p0.jmstatic.com\/mobile\/api\/icon\/addwish.png",
+    "add_wish_plus": "http:\/\/p0.jmstatic.com\/mobile\/api\/icon\/addwish_plus.png"
+  },
+  "item_list": [
+    {
+      "label": "ppt_burberry_170717_app",
+      "type": "jmstore",
+      "url": "http:\/\/h5.jumei.com\/s\/act\/ppt_burberry_170717_app.html?sellparams=remind_id:b&fp=home&fpa=home_main",
+      "title": "\u5e26\u4f60\u73a9\u8f6c\u82f1\u4f26\u98ce",
+      "start_time": "1500256800",
+      "end_time": "1500515999",
+      "discount_string": "\u5168\u573a3.9\u6298\u8d77",
+      "image_url_set": {
+        "main": {
+          "320": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/004\/4082_std\/5968afbde1e69_2048_710.jpg?1500032964&imageView2\/2\/w\/320\/q\/90",
+          "480": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/004\/4082_std\/5968afbde1e69_2048_710.jpg?1500032964&imageView2\/2\/w\/480\/q\/90",
+          "640": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/004\/4082_std\/5968afbde1e69_2048_710.jpg?1500032964&imageView2\/2\/w\/640\/q\/90",
+          "800": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/004\/4082_std\/5968afbde1e69_2048_710.jpg?1500032964&imageView2\/2\/w\/800\/q\/90"
+        }
+      },
+      "itemid": "138291",
+      "sort_quality_score": 53.808,
+      "quality_score": "0.00",
+      "exposure": "0",
+      "uv": "0",
+      "sale_num": "0",
+      "quality_score_android": "33.63",
+      "quality_score_iphone": "28.61",
+      "exposure_android": "92164",
+      "exposure_iphone": "133142",
+      "wish_number": "12",
+      "sales_volume_mobile_pay": "17797.00",
+      "sales_volume_mobile_pay_android": "30995.00",
+      "sales_volume_mobile_pay_iphone": "38094.00",
+      "sale_num_android": "5",
+      "sale_num_iphone": "6",
+      "uv_android": "3914",
+      "uv_iphone": "6093",
+      "remind_id": "b",
+      "sales_amount_sum": "",
+      "sales_amount_a": "",
+      "sales_amount_b": "",
+      "sales_amount_c": "",
+      "statistic_info": {
+        "buried_type": "",
+        "exposure_link": "",
+        "click_link": ""
+      },
+      "url_old": 0,
+      "live": [
+
+      ],
+      "h5_url": "http:\/\/h5.jumei.com\/activity\/detailv2?label=ppt_burberry_170717_app&type=jmstore"
+    },
+    {
+      "label": "ppt_maskfamily_170717_app",
+      "type": "jmstore",
+      "url": "http:\/\/h5.jumei.com\/s\/act\/ppt_maskfamily_170717_app.html?sellparams=remind_id:b&fp=home&fpa=home_main",
+      "title": "\u505a\u4e2a\u8000\u76ee\u6c34\u7f8e\u4eba",
+      "start_time": "1500256800",
+      "end_time": "1500515999",
+      "discount_string": "\u90e8\u5206\u6ee1199\u51cf100",
+      "image_url_set": {
+        "main": {
+          "320": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/000\/44_std\/5968128ecd234_2048_710.jpg?1500262586&imageView2\/2\/w\/320\/q\/90",
+          "480": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/000\/44_std\/5968128ecd234_2048_710.jpg?1500262586&imageView2\/2\/w\/480\/q\/90",
+          "640": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/000\/44_std\/5968128ecd234_2048_710.jpg?1500262586&imageView2\/2\/w\/640\/q\/90",
+          "800": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/000\/44_std\/5968128ecd234_2048_710.jpg?1500262586&imageView2\/2\/w\/800\/q\/90"
+        }
+      },
+      "itemid": "136683",
+      "sort_quality_score": 33.856,
+      "quality_score": "0.00",
+      "exposure": "0",
+      "uv": "0",
+      "sale_num": "0",
+      "quality_score_android": "21.16",
+      "quality_score_iphone": "11.86",
+      "exposure_android": "164093",
+      "exposure_iphone": "113012",
+      "wish_number": "6",
+      "sales_volume_mobile_pay": "46375.87",
+      "sales_volume_mobile_pay_android": "34724.04",
+      "sales_volume_mobile_pay_iphone": "13399.29",
+      "sale_num_android": "534",
+      "sale_num_iphone": "208",
+      "uv_android": "7467",
+      "uv_iphone": "1984",
+      "remind_id": "b",
+      "sales_amount_sum": "",
+      "sales_amount_a": "",
+      "sales_amount_b": "",
+      "sales_amount_c": "",
+      "statistic_info": {
+        "buried_type": "",
+        "exposure_link": "",
+        "click_link": ""
+      },
+      "url_old": 0,
+      "live": [
+
+      ],
+      "h5_url": "http:\/\/h5.jumei.com\/activity\/detailv2?label=ppt_maskfamily_170717_app&type=jmstore"
+    },
+    {
+      "label": "ppt_yunifang_20170717_app",
+      "type": "jmstore",
+      "url": "http:\/\/h5.jumei.com\/s\/act\/ppt_yunifang_20170717_app.html?sellparams=remind_id:b&fp=home&fpa=home_main",
+      "title": "\u695a\u4e54\u540c\u6b3e  \u590f\u65e5\u5fc5\u4e70\u6e05\u5355",
+      "start_time": "1500256800",
+      "end_time": "1500515999",
+      "discount_string": "\u90e8\u5206199\u51cf80",
+      "image_url_set": {
+        "main": {
+          "320": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/000\/234_std\/596791fc64b6b_2048_710.jpg?1500021403&imageView2\/2\/w\/320\/q\/90",
+          "480": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/000\/234_std\/596791fc64b6b_2048_710.jpg?1500021403&imageView2\/2\/w\/480\/q\/90",
+          "640": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/000\/234_std\/596791fc64b6b_2048_710.jpg?1500021403&imageView2\/2\/w\/640\/q\/90",
+          "800": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/000\/234_std\/596791fc64b6b_2048_710.jpg?1500021403&imageView2\/2\/w\/800\/q\/90"
+        }
+      },
+      "itemid": "138262",
+      "sort_quality_score": 20.704,
+      "quality_score": "0.00",
+      "exposure": "0",
+      "uv": "0",
+      "sale_num": "0",
+      "quality_score_android": "12.94",
+      "quality_score_iphone": "6.12",
+      "exposure_android": "141712",
+      "exposure_iphone": "99951",
+      "wish_number": "16",
+      "sales_volume_mobile_pay": "24220.94",
+      "sales_volume_mobile_pay_android": "18332.66",
+      "sales_volume_mobile_pay_iphone": "6113.86",
+      "sale_num_android": "191",
+      "sale_num_iphone": "63",
+      "uv_android": "5586",
+      "uv_iphone": "1489",
+      "remind_id": "b",
+      "sales_amount_sum": "",
+      "sales_amount_a": "",
+      "sales_amount_b": "",
+      "sales_amount_c": "",
+      "statistic_info": {
+        "buried_type": "",
+        "exposure_link": "",
+        "click_link": ""
+      },
+      "url_old": 0,
+      "live": {
+        "uid": "105407152",
+        "nickname": "\u5fa1\u6ce5\u574a\u62a4\u80a4",
+        "avatar_small": "http:\/\/images2.jumei.com\/user_avatar\/105\/407\/105407152-64-1497593923.jpg?1497593924",
+        "personalCenterLink": "jumeimall:\/\/page\/socialotheruser?userid=105407152",
+        "authDescription": "\u5fa1\u6ce5\u574a\u9762\u819c\u4e13\u5bb6",
+        "signature": "\u6211\u9700\u8981\u4e00\u4e2a\u957f\u52bf\u65fa\u76db\u7684\u4e2a\u6027\u7b7e\u540d",
+        "vipLogo": {
+          "1280": "http:\/\/showicon-10012585.image.myqcloud.com\/2bced225-510a-4758-af4e-40de36fc91a2\/72x39",
+          "1080": "http:\/\/showicon-10012585.image.myqcloud.com\/2bced225-510a-4758-af4e-40de36fc91a2\/72x39",
+          "720": "http:\/\/showicon-10012585.image.myqcloud.com\/2bced225-510a-4758-af4e-40de36fc91a2\/48x26",
+          "640": "http:\/\/showicon-10012585.image.myqcloud.com\/2bced225-510a-4758-af4e-40de36fc91a2\/48x26"
+        },
+        "roomTitle": "",
+        "liveLink": "",
+        "isLiveNow": "0",
+        "roomCover": [
+
+        ],
+        "isAttention": "0",
+        "hotValue": "",
+        "onlineCount": "",
+        "roomId": ""
+      },
+      "h5_url": "http:\/\/h5.jumei.com\/activity\/detailv2?label=ppt_yunifang_20170717_app&type=jmstore"
+    },
+    {
+      "label": "plt_ht_z_17nianbimaifanghsai_170717_app",
+      "type": "jmstore",
+      "url": "http:\/\/h5.jumei.com\/s\/act\/plt_ht_z_17nianbimaifanghsai_170717_app.html?sellparams=remind_id:b&fp=home&fpa=home_main",
+      "title": "17\u5e74\u5fc5\u4e70\u9632\u6652\u653b\u7565",
+      "start_time": "1500256800",
+      "end_time": "1500343199",
+      "discount_string": "\u90e8\u52064.5\u6298\u8d77",
+      "image_url_set": {
+        "main": {
+          "320": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/004\/4776_std\/59683ffe7c771_2048_710.jpg?1500005738&imageView2\/2\/w\/320\/q\/90",
+          "480": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/004\/4776_std\/59683ffe7c771_2048_710.jpg?1500005738&imageView2\/2\/w\/480\/q\/90",
+          "640": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/004\/4776_std\/59683ffe7c771_2048_710.jpg?1500005738&imageView2\/2\/w\/640\/q\/90",
+          "800": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/004\/4776_std\/59683ffe7c771_2048_710.jpg?1500005738&imageView2\/2\/w\/800\/q\/90"
+        }
+      },
+      "itemid": "138038",
+      "sort_quality_score": "12.43",
+      "quality_score": "0.00",
+      "exposure": "0",
+      "uv": "0",
+      "sale_num": "0",
+      "quality_score_android": "12.43",
+      "quality_score_iphone": "11.35",
+      "exposure_android": "124622",
+      "exposure_iphone": "121677",
+      "wish_number": "11",
+      "sales_volume_mobile_pay": "30862.49",
+      "sales_volume_mobile_pay_android": "15496.64",
+      "sales_volume_mobile_pay_iphone": "13814.44",
+      "sale_num_android": "227",
+      "sale_num_iphone": "188",
+      "uv_android": "7907",
+      "uv_iphone": "5106",
+      "remind_id": "b",
+      "sales_amount_sum": "",
+      "sales_amount_a": "",
+      "sales_amount_b": "",
+      "sales_amount_c": "",
+      "statistic_info": {
+        "buried_type": "",
+        "exposure_link": "",
+        "click_link": ""
+      },
+      "url_old": 0,
+      "live": [
+
+      ],
+      "h5_url": "http:\/\/h5.jumei.com\/activity\/detailv2?label=plt_ht_z_17nianbimaifanghsai_170717_app&type=jmstore"
+    },
+    {
+      "label": "ppt_freeplus_170717_app",
+      "type": "jmstore",
+      "url": "http:\/\/h5.jumei.com\/s\/act\/ppt_freeplus_170717_app.html?sellparams=remind_id:b&fp=home&fpa=home_main",
+      "title": "\u544a\u522b\u654f\u808c \u7231\u4e0a\u6e05\u723d\u590f\u65e5",
+      "start_time": "1500256800",
+      "end_time": "1500515999",
+      "discount_string": "\u7115\u80a4\u65c5\u7a0b\u65b0\u808c\u8715\u53d8",
+      "image_url_set": {
+        "main": {
+          "320": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/003\/3646_std\/5965dbd8dc7cf_2048_710.jpg?1500017639&imageView2\/2\/w\/320\/q\/90",
+          "480": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/003\/3646_std\/5965dbd8dc7cf_2048_710.jpg?1500017639&imageView2\/2\/w\/480\/q\/90",
+          "640": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/003\/3646_std\/5965dbd8dc7cf_2048_710.jpg?1500017639&imageView2\/2\/w\/640\/q\/90",
+          "800": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/003\/3646_std\/5965dbd8dc7cf_2048_710.jpg?1500017639&imageView2\/2\/w\/800\/q\/90"
+        }
+      },
+      "itemid": "137674",
+      "sort_quality_score": "10.68",
+      "quality_score": "0.00",
+      "exposure": "0",
+      "uv": "0",
+      "sale_num": "0",
+      "quality_score_android": "10.68",
+      "quality_score_iphone": "11.14",
+      "exposure_android": "104605",
+      "exposure_iphone": "110063",
+      "wish_number": "21",
+      "sales_volume_mobile_pay": "22722.15",
+      "sales_volume_mobile_pay_android": "11171.23",
+      "sales_volume_mobile_pay_iphone": "12264.68",
+      "sale_num_android": "98",
+      "sale_num_iphone": "119",
+      "uv_android": "7121",
+      "uv_iphone": "5520",
+      "remind_id": "b",
+      "sales_amount_sum": "",
+      "sales_amount_a": "",
+      "sales_amount_b": "",
+      "sales_amount_c": "",
+      "statistic_info": {
+        "buried_type": "",
+        "exposure_link": "",
+        "click_link": ""
+      },
+      "url_old": 0,
+      "live": [
+
+      ],
+      "h5_url": "http:\/\/h5.jumei.com\/activity\/detailv2?label=ppt_freeplus_170717_app&type=jmstore"
+    },
+    {
+      "label": "ppt_thefaceshop_170715_app",
+      "type": "jmstore",
+      "url": "http:\/\/h5.jumei.com\/s\/act\/ppt_thefaceshop_170715_app.html?sellparams=remind_id:b&fp=home&fpa=home_main",
+      "title": "\u6e05\u723d\u62a4\u80a4\u8ba9\u808c\u80a4\u81ea\u7531\u547c\u5438",
+      "start_time": "1500084000",
+      "end_time": "1500343199",
+      "discount_string": "\u6ee1188\u51cf60\u5143",
+      "image_url_set": {
+        "main": {
+          "320": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/000\/60_std\/59647a44c64c8_2048_710.jpg?1500029621&imageView2\/2\/w\/320\/q\/90",
+          "480": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/000\/60_std\/59647a44c64c8_2048_710.jpg?1500029621&imageView2\/2\/w\/480\/q\/90",
+          "640": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/000\/60_std\/59647a44c64c8_2048_710.jpg?1500029621&imageView2\/2\/w\/640\/q\/90",
+          "800": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/000\/60_std\/59647a44c64c8_2048_710.jpg?1500029621&imageView2\/2\/w\/800\/q\/90"
+        }
+      },
+      "itemid": "137302",
+      "sort_quality_score": "8.57",
+      "quality_score": "0.00",
+      "exposure": "0",
+      "uv": "0",
+      "sale_num": "0",
+      "quality_score_android": "8.57",
+      "quality_score_iphone": "3.90",
+      "exposure_android": "74568",
+      "exposure_iphone": "56386",
+      "wish_number": "16",
+      "sales_volume_mobile_pay": "9934.74",
+      "sales_volume_mobile_pay_android": "6390.65",
+      "sales_volume_mobile_pay_iphone": "2196.89",
+      "sale_num_android": "159",
+      "sale_num_iphone": "65",
+      "uv_android": "2953",
+      "uv_iphone": "909",
+      "remind_id": "b",
+      "sales_amount_sum": "",
+      "sales_amount_a": "",
+      "sales_amount_b": "",
+      "sales_amount_c": "",
+      "statistic_info": {
+        "buried_type": "",
+        "exposure_link": "",
+        "click_link": ""
+      },
+      "url_old": 0,
+      "live": [
+
+      ],
+      "h5_url": "http:\/\/h5.jumei.com\/activity\/detailv2?label=ppt_thefaceshop_170715_app&type=jmstore"
+    },
+    {
+      "label": "ppt_xiaomihu_170716_app",
+      "type": "jmstore",
+      "url": "http:\/\/h5.jumei.com\/s\/act\/ppt_xiaomihu_170716_app.html?sellparams=remind_id:b&fp=home&fpa=home_main",
+      "title": "\u7b80\u5355\u5c0f\u8ff7\u7cca \u5929\u7136\u6c34\u900f\u808c",
+      "start_time": "1500170400",
+      "end_time": "1500429599",
+      "discount_string": "\u90e8\u5206\u6ee1199\u51cf100",
+      "image_url_set": {
+        "main": {
+          "320": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/002\/2871_std\/59673ea58be03_2048_710.jpg?1499938490&imageView2\/2\/w\/320\/q\/90",
+          "480": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/002\/2871_std\/59673ea58be03_2048_710.jpg?1499938490&imageView2\/2\/w\/480\/q\/90",
+          "640": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/002\/2871_std\/59673ea58be03_2048_710.jpg?1499938490&imageView2\/2\/w\/640\/q\/90",
+          "800": "http:\/\/mp4.jmstatic.com\/\/jmstore\/image\/000\/002\/2871_std\/59673ea58be03_2048_710.jpg@base@tag=imgScale&w=800&q=90?1499938490"
+        }
+      },
+      "itemid": "137715",
+      "sort_quality_score": "8.49",
+      "quality_score": "0.00",
+      "exposure": "0",
+      "uv": "0",
+      "sale_num": "0",
+      "quality_score_android": "8.49",
+      "quality_score_iphone": "4.78",
+      "exposure_android": "107731",
+      "exposure_iphone": "82968",
+      "wish_number": "15",
+      "sales_volume_mobile_pay": "13674.01",
+      "sales_volume_mobile_pay_android": "9150.62",
+      "sales_volume_mobile_pay_iphone": "3964.41",
+      "sale_num_android": "159",
+      "sale_num_iphone": "65",
+      "uv_android": "3051",
+      "uv_iphone": "905",
+      "remind_id": "b",
+      "sales_amount_sum": "",
+      "sales_amount_a": "",
+      "sales_amount_b": "",
+      "sales_amount_c": "",
+      "statistic_info": {
+        "buried_type": "",
+        "exposure_link": "",
+        "click_link": ""
+      },
+      "url_old": 0,
+      "live": [
+
+      ],
+      "h5_url": "http:\/\/h5.jumei.com\/activity\/detailv2?label=ppt_xiaomihu_170716_app&type=jmstore"
+    },
+    {
+      "label": "plt_ht_koubeikaijiahufuzhuanchang_170717_app",
+      "type": "jmstore",
+      "url": "http:\/\/h5.jumei.com\/s\/act\/plt_ht_koubeikaijiahufuzhuanchang_170717_app.html?sellparams=remind_id:b&fp=home&fpa=home_main",
+      "title": "\u53e3\u7891\u5f00\u67b6\u62a4\u80a4\u4e13\u573a",
+      "start_time": "1500256800",
+      "end_time": "1500343199",
+      "discount_string": "\u90e8\u52064.5\u6298\u8d77",
+      "image_url_set": {
+        "main": {
+          "320": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/002\/2568_std\/596836d072444_2048_710.jpg?1500260774&imageView2\/2\/w\/320\/q\/90",
+          "480": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/002\/2568_std\/596836d072444_2048_710.jpg?1500260774&imageView2\/2\/w\/480\/q\/90",
+          "640": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/002\/2568_std\/596836d072444_2048_710.jpg?1500260774&imageView2\/2\/w\/640\/q\/90",
+          "800": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/002\/2568_std\/596836d072444_2048_710.jpg?1500260774&imageView2\/2\/w\/800\/q\/90"
+        }
+      },
+      "itemid": "138379",
+      "sort_quality_score": "8.13",
+      "quality_score": "0.00",
+      "exposure": "0",
+      "uv": "0",
+      "sale_num": "0",
+      "quality_score_android": "8.13",
+      "quality_score_iphone": "6.53",
+      "exposure_android": "93214",
+      "exposure_iphone": "96676",
+      "wish_number": "13",
+      "sales_volume_mobile_pay": "14475.15",
+      "sales_volume_mobile_pay_android": "7577.33",
+      "sales_volume_mobile_pay_iphone": "6317.71",
+      "sale_num_android": "83",
+      "sale_num_iphone": "73",
+      "uv_android": "4798",
+      "uv_iphone": "3438",
+      "remind_id": "b",
+      "sales_amount_sum": "",
+      "sales_amount_a": "",
+      "sales_amount_b": "",
+      "sales_amount_c": "",
+      "statistic_info": {
+        "buried_type": "",
+        "exposure_link": "",
+        "click_link": ""
+      },
+      "url_old": 0,
+      "live": [
+
+      ],
+      "h5_url": "http:\/\/h5.jumei.com\/activity\/detailv2?label=plt_ht_koubeikaijiahufuzhuanchang_170717_app&type=jmstore"
+    },
+    {
+      "label": "ppt_obmskincareh_170717",
+      "type": "jmstore",
+      "url": "http:\/\/h5.jumei.com\/s\/act\/ppt_obmskincareh_170717.html?sellparams=remind_id:b&fp=home&fpa=home_main",
+      "title": "\u5e26\u4f60\u75af\u72c2\u626b\u8d27\u4e0d\u5fc3\u75bc",
+      "start_time": "1500256800",
+      "end_time": "1500429599",
+      "discount_string": "79\u51432\u4ef6\u8d77",
+      "image_url_set": {
+        "main": {
+          "320": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/003\/3718_std\/5967109d1ad70_2048_710.jpg?1500002362&imageView2\/2\/w\/320\/q\/90",
+          "480": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/003\/3718_std\/5967109d1ad70_2048_710.jpg?1500002362&imageView2\/2\/w\/480\/q\/90",
+          "640": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/003\/3718_std\/5967109d1ad70_2048_710.jpg?1500002362&imageView2\/2\/w\/640\/q\/90",
+          "800": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/003\/3718_std\/5967109d1ad70_2048_710.jpg?1500002362&imageView2\/2\/w\/800\/q\/90"
+        }
+      },
+      "itemid": "138015",
+      "sort_quality_score": "7.75",
+      "quality_score": "0.00",
+      "exposure": "0",
+      "uv": "0",
+      "sale_num": "0",
+      "quality_score_android": "7.75",
+      "quality_score_iphone": "5.15",
+      "exposure_android": "79302",
+      "exposure_iphone": "68976",
+      "wish_number": "15",
+      "sales_volume_mobile_pay": "10318.00",
+      "sales_volume_mobile_pay_android": "6144.28",
+      "sales_volume_mobile_pay_iphone": "3549.40",
+      "sale_num_android": "157",
+      "sale_num_iphone": "89",
+      "uv_android": "4480",
+      "uv_iphone": "2041",
+      "remind_id": "b",
+      "sales_amount_sum": "",
+      "sales_amount_a": "",
+      "sales_amount_b": "",
+      "sales_amount_c": "",
+      "statistic_info": {
+        "buried_type": "",
+        "exposure_link": "",
+        "click_link": ""
+      },
+      "url_old": 0,
+      "live": [
+
+      ],
+      "h5_url": "http:\/\/h5.jumei.com\/activity\/detailv2?label=ppt_obmskincareh_170717&type=jmstore"
+    },
+    {
+      "label": "ppt_herborist_170717_app",
+      "type": "jmstore",
+      "url": "http:\/\/h5.jumei.com\/s\/act\/ppt_herborist_170717_app.html?sellparams=remind_id:b&fp=home&fpa=home_main",
+      "title": "\u6e05\u6d4a\u6108\u201c\u4f70\u201d \u81ea\u7136\u4e4b\u7ea6",
+      "start_time": "1500256800",
+      "end_time": "1500515999",
+      "discount_string": "258\u51cf50\u8d60\u56db\u4ef6\u5957",
+      "image_url_set": {
+        "main": {
+          "320": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/000\/55_std\/5965f3515705e_2048_710.jpg?1500262599&imageView2\/2\/w\/320\/q\/90",
+          "480": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/000\/55_std\/5965f3515705e_2048_710.jpg?1500262599&imageView2\/2\/w\/480\/q\/90",
+          "640": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/000\/55_std\/5965f3515705e_2048_710.jpg?1500262599&imageView2\/2\/w\/640\/q\/90",
+          "800": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/000\/55_std\/5965f3515705e_2048_710.jpg?1500262599&imageView2\/2\/w\/800\/q\/90"
+        }
+      },
+      "itemid": "137646",
+      "sort_quality_score": "7.69",
+      "quality_score": "0.00",
+      "exposure": "0",
+      "uv": "0",
+      "sale_num": "0",
+      "quality_score_android": "7.69",
+      "quality_score_iphone": "5.95",
+      "exposure_android": "96121",
+      "exposure_iphone": "82926",
+      "wish_number": "6",
+      "sales_volume_mobile_pay": "11941.81",
+      "sales_volume_mobile_pay_android": "7391.65",
+      "sales_volume_mobile_pay_iphone": "4932.16",
+      "sale_num_android": "52",
+      "sale_num_iphone": "33",
+      "uv_android": "3713",
+      "uv_iphone": "1430",
+      "remind_id": "b",
+      "sales_amount_sum": "",
+      "sales_amount_a": "",
+      "sales_amount_b": "",
+      "sales_amount_c": "",
+      "statistic_info": {
+        "buried_type": "",
+        "exposure_link": "",
+        "click_link": ""
+      },
+      "url_old": 0,
+      "live": [
+
+      ],
+      "h5_url": "http:\/\/h5.jumei.com\/activity\/detailv2?label=ppt_herborist_170717_app&type=jmstore"
+    },
+    {
+      "type": "global_deal",
+      "item_id": "ht170717p2742342t2",
+      "search_doc_id": "",
+      "status": "onsell",
+      "status_num": "1",
+      "selling_forms": "normal",
+      "settling_accounts_forms": "",
+      "name": "\u57ce\u91ce\u533b\u751f\u6bdb\u5b54\u5bf9\u7b56\u6536\u655b\u6c34\u9650\u5b9a\u6b3e200ml\uff0c\u6bdb\u5b54\u514b\u661f\u6c34\u3001\u4ece\u6e90\u5934\u6539\u5584\u5927\u6cb9\u7530\uff01",
+      "qrshare_product_name": "\u57ce\u91ce\u533b\u751f\u6bdb\u5b54\u5bf9\u7b56\u6536\u655b\u6c34\u9650\u5b9a\u6b3e200ml\uff0c\u6bdb\u5b54\u514b\u661f\u6c34\u3001\u4ece\u6e90\u5934\u6539\u5584\u5927\u6cb9\u7530\uff01",
+      "short_name": "\u57ce\u91ce\u533b\u751f\u6bdb\u5b54\u5bf9\u7b56\u6536\u655b\u6c34200ml",
+      "product_id": "2742342",
+      "brand_id": "6083",
+      "category_id": "0",
+      "function_ids": [
+
+      ],
+      "discount": "-1",
+      "jumei_price": "189",
+      "market_price": "-1",
+      "buyer_number": "481",
+      "popular": 0,
+      "display_price": "1",
+      "wish_number": "1301",
+      "start_time": "1500256800",
+      "end_time": "1500343199",
+      "show_category": "special",
+      "hash_id": "ht170717p2742342t2",
+      "category": "retail_global",
+      "warehouse_name": "",
+      "shipping_system_id": "2310",
+      "is_deal_dx_enable": "0",
+      "with_new_image": "1",
+      "has_short_video": 0,
+      "category_v3_1": "107",
+      "is_combination": "0",
+      "is_slide": "",
+      "platform": "",
+      "show_tag": "new",
+      "tag_id": [
+
+      ],
+      "tag_ids": [
+
+      ],
+      "yqt_show": "0",
+      "price_detail": {
+        "title": "\u4ef7\u683c\u8be6\u60c5",
+        "desp": "\u8d27\u4ef7 168.9 + \u7a0e\u4ef7 20.1\uff08\u589e\u503c\u7a0e\u3001\u6d88\u8d39\u7a0e\uff09"
+      },
+      "value_of_goods": "168.90",
+      "tax": "20.10",
+      "deal_quality_num": "0",
+      "product_quality_num": "0",
+      "product_exposure": "0",
+      "deal_exposure": "0",
+      "deal_uv": "0",
+      "deal_sales_amount": "0",
+      "deal_buyer_numbers": "0",
+      "today_sales_volume": "",
+      "deal_quality_num_android": 7.37,
+      "deal_quality_num_iphone": "11.09",
+      "deal_exposure_android": "27486",
+      "deal_exposure_iphone": "47150",
+      "deal_sales_amount_android": "2026.79",
+      "deal_sales_amount_iphone": "5229.22",
+      "deal_buyer_numbers_android": "12",
+      "deal_buyer_numbers_iphone": "30",
+      "deal_uv_android": "718",
+      "deal_uv_iphone": "1200",
+      "data_source": "[top]",
+      "remind_id": "c",
+      "live_info": null,
+      "sku_category": "global_japan",
+      "foreign_language_name": "\u30e9\u30dc\u30e9\u30dc \u30b9\u30fc\u30d1\u30fc\u6bdb\u7a74\u30ed\u30fc\u30b7\u30e7\u30f3",
+      "abroad_price_foreign": "1",
+      "jumei_price_foreign": "3611.34",
+      "abroad_price": "0.05",
+      "area_currency_symbol": "\u5186",
+      "area_currency_symbol_location": "2",
+      "area_code": "29",
+      "area_name": "\u65e5\u672c",
+      "is_dm": false,
+      "authorization": "",
+      "is_deal": 1,
+      "name_tag": {
+        "authorization": "",
+        "pre_or_presale": "",
+        "pre_or_presale_text": "",
+        "notice": ""
+      },
+      "time_desc": "",
+      "tip_desc": [
+        "\u6781\u901f\u514d\u7a0e"
+      ],
+      "stocks_alarm": false,
+      "status_tag": "",
+      "buried_type": "0",
+      "exposure_link": "",
+      "click_link": "",
+      "sort_quality_score": 7.37,
+      "tag_name": "new_product",
+      "image_url_set": {
+        "dx_image": {
+          "url": {
+            "320": "http:\/\/mp5.jmstatic.com\/product\/002\/742\/2742342_std\/2742342_dx_1154_400.jpg?_t=1469527439&imageView2\/2\/w\/320\/q\/90",
+            "480": "http:\/\/mp5.jmstatic.com\/product\/002\/742\/2742342_std\/2742342_dx_1154_400.jpg?_t=1469527439&imageView2\/2\/w\/480\/q\/90",
+            "640": "http:\/\/mp5.jmstatic.com\/product\/002\/742\/2742342_std\/2742342_dx_1154_400.jpg?_t=1469527439&imageView2\/2\/w\/640\/q\/90",
+            "800": "http:\/\/mp5.jmstatic.com\/product\/002\/742\/2742342_std\/2742342_dx_1154_400.jpg?_t=1469527439&imageView2\/2\/w\/800\/q\/90"
+          },
+          "rgb": "#FFFFFF"
+        }
+      },
+      "tag": "",
+      "area_icon": {
+        "320": "http:\/\/p0.jmstatic.com\/banner\/area\/000\/000\/029.jpg",
+        "480": "http:\/\/p0.jmstatic.com\/banner\/area\/000\/000\/029.jpg",
+        "640": "http:\/\/p0.jmstatic.com\/banner\/area\/000\/000\/029.jpg",
+        "800": "http:\/\/p0.jmstatic.com\/banner\/area\/000\/000\/029.jpg"
+      },
+      "product_desc": "481\u4eba\u5df2\u8d2d\u4e70",
+      "live": [
+
+      ],
+      "video_info": [
+
+      ],
+      "url_schema": "jumeimall:\/\/page\/alldetail?platform=wap&itemid=ht170717p2742342t2&type=global_deal&selltype=deallist&selllabel=home_main&sellparams=remind_id:c",
+      "sellparams": "remind_id:c",
+      "show_purchase_button": "1",
+      "h5_url": "http:\/\/h5.jumei.com\/product\/detail?item_id=ht170717p2742342t2&type=global_deal"
+    },
+    {
+      "type": "global_deal",
+      "item_id": "ht170613p3086669t2",
+      "search_doc_id": "",
+      "status": "onsell",
+      "status_num": "1",
+      "selling_forms": "normal",
+      "settling_accounts_forms": "",
+      "name": "\u3010\u7ea2\u904d\u65e5\u672c\u3011ULUKA\u9175\u7d20\u6d17\u9762\u5976\uff0c\u6d53\u7f29\u4e00\u74f6\u201c\u7d2b\u82cf\u6c34\u201d\u7cbe\u534e\uff0c\u5bfc\u51fa\u9ed1\u5934\u6536\u6bdb\u5b54",
+      "qrshare_product_name": "\u3010\u7ea2\u904d\u65e5\u672c\u3011ULUKA\u9175\u7d20\u6d17\u9762\u5976\uff0c\u6d53\u7f29\u4e00\u74f6\u201c\u7d2b\u82cf\u6c34\u201d\u7cbe\u534e\uff0c\u5bfc\u51fa\u9ed1\u5934\u6536\u6bdb\u5b54",
+      "short_name": "ULUKA\u9175\u7d20\u65e0\u6dfb\u52a0\u6d17\u9762\u5976120g",
+      "product_id": "3086669",
+      "brand_id": "13665",
+      "category_id": "0",
+      "function_ids": [
+
+      ],
+      "discount": "-1",
+      "jumei_price": "29",
+      "market_price": "99",
+      "buyer_number": "967",
+      "popular": 0,
+      "display_price": "1",
+      "wish_number": "4775",
+      "start_time": "1500256800",
+      "end_time": "1500429599",
+      "show_category": "special",
+      "hash_id": "ht170613p3086669t2",
+      "category": "retail_global",
+      "warehouse_name": "",
+      "shipping_system_id": "2310",
+      "is_deal_dx_enable": "0",
+      "with_new_image": "1",
+      "has_short_video": 0,
+      "category_v3_1": "107",
+      "is_combination": "0",
+      "is_slide": "0",
+      "platform": "",
+      "show_tag": "new",
+      "tag_id": [
+
+      ],
+      "tag_ids": [
+
+      ],
+      "yqt_show": "0",
+      "price_detail": {
+        "title": "\u4ef7\u683c\u8be6\u60c5",
+        "desp": "\u8d27\u4ef7 25.92 + \u7a0e\u4ef7 3.08\uff08\u589e\u503c\u7a0e\u3001\u6d88\u8d39\u7a0e\uff09"
+      },
+      "value_of_goods": "25.92",
+      "tax": "3.08",
+      "deal_quality_num": "0",
+      "product_quality_num": "0",
+      "product_exposure": "1172849",
+      "deal_exposure": "0",
+      "deal_uv": "0",
+      "deal_sales_amount": "0.00",
+      "deal_buyer_numbers": "0.00",
+      "today_sales_volume": "13398",
+      "deal_quality_num_android": 7.248,
+      "deal_quality_num_iphone": "2.99",
+      "deal_exposure_android": "64969",
+      "deal_exposure_iphone": "60086",
+      "deal_sales_amount_android": "2943.95",
+      "deal_sales_amount_iphone": "1795.41",
+      "deal_buyer_numbers_android": "112",
+      "deal_buyer_numbers_iphone": "69",
+      "deal_uv_android": "2308",
+      "deal_uv_iphone": "1251",
+      "data_source": "[dealman][top]",
+      "remind_id": "b",
+      "live_info": null,
+      "sku_category": "global_obm",
+      "foreign_language_name": "ULUKA Face Wash",
+      "abroad_price_foreign": "1",
+      "jumei_price_foreign": "4.68",
+      "abroad_price": "6.2",
+      "area_currency_symbol": "$",
+      "area_currency_symbol_location": "1",
+      "area_code": "29",
+      "area_name": "\u7f8e\u56fd",
+      "is_dm": false,
+      "authorization": "",
+      "is_deal": 1,
+      "name_tag": {
+        "authorization": "",
+        "pre_or_presale": "",
+        "pre_or_presale_text": "",
+        "notice": ""
+      },
+      "time_desc": "",
+      "tip_desc": [
+        "\u6781\u901f\u514d\u7a0e"
+      ],
+      "stocks_alarm": false,
+      "status_tag": "",
+      "buried_type": "0",
+      "exposure_link": "",
+      "click_link": "",
+      "sort_quality_score": 7.248,
+      "tag_name": "new_product",
+      "image_url_set": {
+        "dx_image": {
+          "url": {
+            "320": "http:\/\/mp5.jmstatic.com\/product\/003\/086\/3086669_std\/3086669_dx_1154_400.jpg?_t=1495877966&imageView2\/2\/w\/320\/q\/90",
+            "480": "http:\/\/mp5.jmstatic.com\/product\/003\/086\/3086669_std\/3086669_dx_1154_400.jpg?_t=1495877966&imageView2\/2\/w\/480\/q\/90",
+            "640": "http:\/\/mp5.jmstatic.com\/product\/003\/086\/3086669_std\/3086669_dx_1154_400.jpg?_t=1495877966&imageView2\/2\/w\/640\/q\/90",
+            "800": "http:\/\/mp5.jmstatic.com\/product\/003\/086\/3086669_std\/3086669_dx_1154_400.jpg?_t=1495877966&imageView2\/2\/w\/800\/q\/90"
+          },
+          "rgb": "#FFFFFF"
+        }
+      },
+      "tag": "",
+      "area_icon": {
+        "320": "http:\/\/p0.jmstatic.com\/banner\/area\/000\/000\/029.jpg",
+        "480": "http:\/\/p0.jmstatic.com\/banner\/area\/000\/000\/029.jpg",
+        "640": "http:\/\/p0.jmstatic.com\/banner\/area\/000\/000\/029.jpg",
+        "800": "http:\/\/p0.jmstatic.com\/banner\/area\/000\/000\/029.jpg"
+      },
+      "product_desc": "967\u4eba\u5df2\u8d2d\u4e70",
+      "live": [
+
+      ],
+      "video_info": [
+
+      ],
+      "url_schema": "jumeimall:\/\/page\/alldetail?platform=wap&itemid=ht170613p3086669t2&type=global_deal&selltype=deallist&selllabel=home_main&sellparams=remind_id:b",
+      "sellparams": "remind_id:b",
+      "show_purchase_button": "1",
+      "h5_url": "http:\/\/h5.jumei.com\/product\/detail?item_id=ht170613p3086669t2&type=global_deal"
+    },
+    {
+      "label": "plt_ht_h_snprainbow_170717_app",
+      "type": "jmstore",
+      "url": "http:\/\/h5.jumei.com\/s\/act\/plt_ht_h_snprainbow_170717_app.html?sellparams=remind_id:b&fp=home&fpa=home_main",
+      "title": "SNP\uff06\u5f69\u8679",
+      "start_time": "1500256800",
+      "end_time": "1500343199",
+      "discount_string": "\u90e8\u52064.1\u6298\u8d77",
+      "image_url_set": {
+        "main": {
+          "320": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/004\/4777_std\/59670d657fd1f_2048_710.jpg?1499926757&imageView2\/2\/w\/320\/q\/90",
+          "480": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/004\/4777_std\/59670d657fd1f_2048_710.jpg?1499926757&imageView2\/2\/w\/480\/q\/90",
+          "640": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/004\/4777_std\/59670d657fd1f_2048_710.jpg?1499926757&imageView2\/2\/w\/640\/q\/90",
+          "800": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/004\/4777_std\/59670d657fd1f_2048_710.jpg?1499926757&imageView2\/2\/w\/800\/q\/90"
+        }
+      },
+      "itemid": "138009",
+      "sort_quality_score": "7.13",
+      "quality_score": "0.00",
+      "exposure": "0",
+      "uv": "0",
+      "sale_num": "0",
+      "quality_score_android": "7.13",
+      "quality_score_iphone": "10.43",
+      "exposure_android": "96030",
+      "exposure_iphone": "107450",
+      "wish_number": "14",
+      "sales_volume_mobile_pay": "18581.32",
+      "sales_volume_mobile_pay_android": "6843.24",
+      "sales_volume_mobile_pay_iphone": "11210.85",
+      "sale_num_android": "72",
+      "sale_num_iphone": "110",
+      "uv_android": "2958",
+      "uv_iphone": "3240",
+      "remind_id": "b",
+      "sales_amount_sum": "",
+      "sales_amount_a": "",
+      "sales_amount_b": "",
+      "sales_amount_c": "",
+      "statistic_info": {
+        "buried_type": "",
+        "exposure_link": "",
+        "click_link": ""
+      },
+      "url_old": 0,
+      "live": [
+
+      ],
+      "h5_url": "http:\/\/h5.jumei.com\/activity\/detailv2?label=plt_ht_h_snprainbow_170717_app&type=jmstore"
+    },
+    {
+      "type": "global_deal",
+      "item_id": "ht170717p2403146t2",
+      "search_doc_id": "",
+      "status": "onsell",
+      "status_num": "1",
+      "selling_forms": "normal",
+      "settling_accounts_forms": "",
+      "name": "\u4f4e\u4f30\u9632\u6652\u4f1a\u88ab\u9633\u5149\u6bc1\u5f88\u60e8!RECIPE\u51b0\u611f\u9632\u6652\u55b7\u96fe,\u516b\u6548\u5408\u4e00\u6301\u4e45\u62b5\u5fa1UV!",
+      "qrshare_product_name": "\u4f4e\u4f30\u9632\u6652\u4f1a\u88ab\u9633\u5149\u6bc1\u5f88\u60e8!RECIPE\u51b0\u611f\u9632\u6652\u55b7\u96fe,\u516b\u6548\u5408\u4e00\u6301\u4e45\u62b5\u5fa1UV!",
+      "short_name": "RE:CIPE\u51b0\u611f\u6c34\u6676\u9632\u6652\u55b7\u96fe150ml",
+      "product_id": "2403146",
+      "brand_id": "11931",
+      "category_id": "0",
+      "function_ids": [
+
+      ],
+      "discount": "-1",
+      "jumei_price": "69",
+      "market_price": "-1",
+      "buyer_number": "2864",
+      "popular": 0,
+      "display_price": "1",
+      "wish_number": "2430",
+      "start_time": "1500256800",
+      "end_time": "1500343199",
+      "show_category": "special",
+      "hash_id": "ht170717p2403146t2",
+      "category": "retail_global",
+      "warehouse_name": "",
+      "shipping_system_id": "2310",
+      "is_deal_dx_enable": "0",
+      "with_new_image": "1",
+      "has_short_video": 0,
+      "category_v3_1": "107",
+      "is_combination": "0",
+      "is_slide": "",
+      "platform": "",
+      "show_tag": "new",
+      "tag_id": [
+
+      ],
+      "tag_ids": [
+
+      ],
+      "yqt_show": "0",
+      "price_detail": {
+        "title": "\u4ef7\u683c\u8be6\u60c5",
+        "desp": "\u8d27\u4ef7 61.66 + \u7a0e\u4ef7 7.34\uff08\u589e\u503c\u7a0e\u3001\u6d88\u8d39\u7a0e\uff09"
+      },
+      "value_of_goods": "61.66",
+      "tax": "7.34",
+      "deal_quality_num": "0",
+      "product_quality_num": "0",
+      "product_exposure": "0",
+      "deal_exposure": "0",
+      "deal_uv": "0",
+      "deal_sales_amount": "0",
+      "deal_buyer_numbers": "0",
+      "today_sales_volume": "",
+      "deal_quality_num_android": 6.97,
+      "deal_quality_num_iphone": "9.08",
+      "deal_exposure_android": "66566",
+      "deal_exposure_iphone": "67519",
+      "deal_sales_amount_android": "4636.72",
+      "deal_sales_amount_iphone": "6130.73",
+      "deal_buyer_numbers_android": "71",
+      "deal_buyer_numbers_iphone": "93",
+      "deal_uv_android": "2446",
+      "deal_uv_iphone": "2281",
+      "data_source": "[top]",
+      "remind_id": "c",
+      "live_info": null,
+      "sku_category": "global_asian",
+      "foreign_language_name": "\ub808\uc2dc\ud53c\ud06c\ub9ac\uc2a4\ud0c8\uc120\uc2a4\ud504\ub808\uc774SPF50",
+      "abroad_price_foreign": "1",
+      "jumei_price_foreign": "12401.15",
+      "abroad_price": "0.01",
+      "area_currency_symbol": "\u20a9",
+      "area_currency_symbol_location": "1",
+      "area_code": "29",
+      "area_name": "\u97e9\u56fd",
+      "is_dm": false,
+      "authorization": "",
+      "is_deal": 1,
+      "name_tag": {
+        "authorization": "",
+        "pre_or_presale": "",
+        "pre_or_presale_text": "",
+        "notice": ""
+      },
+      "time_desc": "",
+      "tip_desc": [
+        "\u6781\u901f\u514d\u7a0e"
+      ],
+      "stocks_alarm": false,
+      "status_tag": "",
+      "buried_type": "0",
+      "exposure_link": "",
+      "click_link": "",
+      "sort_quality_score": 6.97,
+      "tag_name": "new_product",
+      "image_url_set": {
+        "dx_image": {
+          "url": {
+            "320": "http:\/\/mp7.jmstatic.com\/product\/002\/403\/2403146_std\/2403146_dx_1154_400.jpg@base@tag=imgScale&w=320&q=90?_t=1499049069",
+            "480": "http:\/\/mp5.jmstatic.com\/product\/002\/403\/2403146_std\/2403146_dx_1154_400.jpg?_t=1499049069&imageView2\/2\/w\/480\/q\/90",
+            "640": "http:\/\/mp5.jmstatic.com\/product\/002\/403\/2403146_std\/2403146_dx_1154_400.jpg?_t=1499049069&imageView2\/2\/w\/640\/q\/90",
+            "800": "http:\/\/mp5.jmstatic.com\/product\/002\/403\/2403146_std\/2403146_dx_1154_400.jpg?_t=1499049069&imageView2\/2\/w\/800\/q\/90"
+          },
+          "rgb": "#FFFFFF"
+        }
+      },
+      "tag": "",
+      "area_icon": {
+        "320": "http:\/\/p0.jmstatic.com\/banner\/area\/000\/000\/029.jpg",
+        "480": "http:\/\/p0.jmstatic.com\/banner\/area\/000\/000\/029.jpg",
+        "640": "http:\/\/p0.jmstatic.com\/banner\/area\/000\/000\/029.jpg",
+        "800": "http:\/\/p0.jmstatic.com\/banner\/area\/000\/000\/029.jpg"
+      },
+      "product_desc": "2864\u4eba\u5df2\u8d2d\u4e70",
+      "live": [
+
+      ],
+      "video_info": [
+
+      ],
+      "url_schema": "jumeimall:\/\/page\/alldetail?platform=wap&itemid=ht170717p2403146t2&type=global_deal&selltype=deallist&selllabel=home_main&sellparams=remind_id:c",
+      "sellparams": "remind_id:c",
+      "show_purchase_button": "1",
+      "h5_url": "http:\/\/h5.jumei.com\/product\/detail?item_id=ht170717p2403146t2&type=global_deal"
+    },
+    {
+      "label": "ppt_casio_170717_app",
+      "type": "jmstore",
+      "url": "http:\/\/h5.jumei.com\/s\/act\/ppt_casio_170717_app.html?sellparams=remind_id:b&fp=home&fpa=home_main",
+      "title": "\u840c\u52a8\u6709\u8da3  \u9ec4\u7206\u590f\u65e5",
+      "start_time": "1500256800",
+      "end_time": "1500515999",
+      "discount_string": "\u5168\u573a\u6ee1100\u5373\u9001\u840c\u7269",
+      "image_url_set": {
+        "main": {
+          "320": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/001\/1829_std\/59685690a31bf_2048_710.jpg?1500284481&imageView2\/2\/w\/320\/q\/90",
+          "480": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/001\/1829_std\/59685690a31bf_2048_710.jpg?1500284481&imageView2\/2\/w\/480\/q\/90",
+          "640": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/001\/1829_std\/59685690a31bf_2048_710.jpg?1500284481&imageView2\/2\/w\/640\/q\/90",
+          "800": "http:\/\/mp5.jmstatic.com\/\/jmstore\/image\/000\/001\/1829_std\/59685690a31bf_2048_710.jpg?1500284481&imageView2\/2\/w\/800\/q\/90"
+        }
+      },
+      "itemid": "138417",
+      "sort_quality_score": "6.82",
+      "quality_score": "0.00",
+      "exposure": "0",
+      "uv": "0",
+      "sale_num": "0",
+      "quality_score_android": "6.82",
+      "quality_score_iphone": "8.77",
+      "exposure_android": "75208",
+      "exposure_iphone": "82451",
+      "wish_number": "17",
+      "sales_volume_mobile_pay": "11654.20",
+      "sales_volume_mobile_pay_android": "5128.00",
+      "sales_volume_mobile_pay_iphone": "7235.00",
+      "sale_num_android": "28",
+      "sale_num_iphone": "37",
+      "uv_android": "5267",
+      "uv_iphone": "4879",
+      "remind_id": "b",
+      "sales_amount_sum": "",
+      "sales_amount_a": "",
+      "sales_amount_b": "",
+      "sales_amount_c": "",
+      "statistic_info": {
+        "buried_type": "",
+        "exposure_link": "",
+        "click_link": ""
+      },
+      "url_old": 0,
+      "live": [
+
+      ],
+      "h5_url": "http:\/\/h5.jumei.com\/activity\/detailv2?label=ppt_casio_170717_app&type=jmstore"
+    },
+    {
+      "type": "global_deal",
+      "item_id": "ht170717p2477004t2",
+      "search_doc_id": "",
+      "status": "onsell",
+      "status_num": "1",
+      "selling_forms": "normal",
+      "settling_accounts_forms": "",
+      "name": "\u3010\u63d0\u53d6\u8717\u725b\u539f\u6db2\u3011it's skin\u6676\u94bb\u8717\u725b1\u53f7\u6c34\u4e73\u5957\u88c5,\u7ed9\u4f60\u62a4\u80a4\u754c\u7684\u4fee\u590d\u80fd\u529b\u8005!",
+      "qrshare_product_name": "\u3010\u63d0\u53d6\u8717\u725b\u539f\u6db2\u3011it's skin\u6676\u94bb\u8717\u725b1\u53f7\u6c34\u4e73\u5957\u88c5,\u7ed9\u4f60\u62a4\u80a4\u754c\u7684\u4fee\u590d\u80fd\u529b\u8005!",
+      "short_name": "Itsskin\u6676\u94bb\u8717\u725b1\u53f7\u6c34\u4e73\u5957\u88c5",
+      "product_id": "2477004",
+      "brand_id": "1038",
+      "category_id": "0",
+      "function_ids": [
+
+      ],
+      "discount": "-1",
+      "jumei_price": "249",
+      "market_price": "409",
+      "buyer_number": "195",
+      "popular": 0,
+      "display_price": "1",
+      "wish_number": "1390",
+      "start_time": "1500256800",
+      "end_time": "1500343199",
+      "show_category": "special",
+      "hash_id": "ht170717p2477004t2",
+      "category": "retail_global",
+      "warehouse_name": "",
+      "shipping_system_id": "2310",
+      "is_deal_dx_enable": "0",
+      "with_new_image": "1",
+      "has_short_video": 0,
+      "category_v3_1": "107",
+      "is_combination": "0",
+      "is_slide": "",
+      "platform": "",
+      "show_tag": "new",
+      "tag_id": [
+
+      ],
+      "tag_ids": [
+
+      ],
+      "yqt_show": "0",
+      "price_detail": {
+        "title": "\u4ef7\u683c\u8be6\u60c5",
+        "desp": "\u8d27\u4ef7 222.52 + \u7a0e\u4ef7 26.48\uff08\u589e\u503c\u7a0e\u3001\u6d88\u8d39\u7a0e\uff09"
+      },
+      "value_of_goods": "222.52",
+      "tax": "26.48",
+      "deal_quality_num": "0",
+      "product_quality_num": "0",
+      "product_exposure": "0",
+      "deal_exposure": "0",
+      "deal_uv": "0",
+      "deal_sales_amount": "0",
+      "deal_buyer_numbers": "0",
+      "today_sales_volume": "",
+      "deal_quality_num_android": 6.77,
+      "deal_quality_num_iphone": "3.65",
+      "deal_exposure_android": "26850",
+      "deal_exposure_iphone": "19612",
+      "deal_sales_amount_android": "1818.00",
+      "deal_sales_amount_iphone": "715.28",
+      "deal_buyer_numbers_android": "8",
+      "deal_buyer_numbers_iphone": "3",
+      "deal_uv_android": "576",
+      "deal_uv_iphone": "348",
+      "data_source": "[top]",
+      "remind_id": "c",
+      "live_info": null,
+      "sku_category": "global_asian",
+      "foreign_language_name": "\uc787\uce20\uc2a4\ud0a8 \ud504\ub808\uc2a4\ud2f0\uc9c0 \ub85c\uc528\uc639 \ub370\uc2a4\uae4c\ub974\uace0\u2160",
+      "abroad_price_foreign": "1",
+      "jumei_price_foreign": "44751.98",
+      "abroad_price": "0.01",
+      "area_currency_symbol": "\u20a9",
+      "area_currency_symbol_location": "1",
+      "area_code": "29",
+      "area_name": "\u97e9\u56fd",
+      "is_dm": false,
+      "authorization": "",
+      "is_deal": 1,
+      "name_tag": {
+        "authorization": "",
+        "pre_or_presale": "",
+        "pre_or_presale_text": "",
+        "notice": ""
+      },
+      "time_desc": "",
+      "tip_desc": [
+        "\u6781\u901f\u514d\u7a0e"
+      ],
+      "stocks_alarm": false,
+      "status_tag": "",
+      "buried_type": "0",
+      "exposure_link": "",
+      "click_link": "",
+      "sort_quality_score": 6.77,
+      "tag_name": "new_product",
+      "image_url_set": {
+        "dx_image": {
+          "url": {
+            "320": "http:\/\/mp5.jmstatic.com\/product\/002\/477\/2477004_std\/2477004_dx_1154_400.jpg?_t=1499853323&imageView2\/2\/w\/320\/q\/90",
+            "480": "http:\/\/mp5.jmstatic.com\/product\/002\/477\/2477004_std\/2477004_dx_1154_400.jpg?_t=1499853323&imageView2\/2\/w\/480\/q\/90",
+            "640": "http:\/\/mp5.jmstatic.com\/product\/002\/477\/2477004_std\/2477004_dx_1154_400.jpg?_t=1499853323&imageView2\/2\/w\/640\/q\/90",
+            "800": "http:\/\/mp5.jmstatic.com\/product\/002\/477\/2477004_std\/2477004_dx_1154_400.jpg?_t=1499853323&imageView2\/2\/w\/800\/q\/90"
+          },
+          "rgb": "#FFFFFF"
+        }
+      },
+      "tag": "",
+      "area_icon": {
+        "320": "http:\/\/p0.jmstatic.com\/banner\/area\/000\/000\/029.jpg",
+        "480": "http:\/\/p0.jmstatic.com\/banner\/area\/000\/000\/029.jpg",
+        "640": "http:\/\/p0.jmstatic.com\/banner\/area\/000\/000\/029.jpg",
+        "800": "http:\/\/p0.jmstatic.com\/banner\/area\/000\/000\/029.jpg"
+      },
+      "product_desc": "195\u4eba\u5df2\u8d2d\u4e70",
+      "live": [
+
+      ],
+      "video_info": [
+
+      ],
+      "url_schema": "jumeimall:\/\/page\/alldetail?platform=wap&itemid=ht170717p2477004t2&type=global_deal&selltype=deallist&selllabel=home_main&sellparams=remind_id:c",
+      "sellparams": "remind_id:c",
+      "show_purchase_button": "1",
+      "h5_url": "http:\/\/h5.jumei.com\/product\/detail?item_id=ht170717p2477004t2&type=global_deal"
+    },
+    {
+      "type": "jumei_deal",
+      "item_id": "d170717p3741238",
+      "search_doc_id": "",
+      "status": "onsell",
+      "status_num": "1",
+      "selling_forms": "normal",
+      "settling_accounts_forms": "",
+      "name": "\u6c64\u59c6\u798f\u7279\u70c8\u7130\u5e7b\u9b45\u5507\u818f3g\uff0c\u53cc\u5507\u7acb\u4f53\u70ab\u4eae\uff0c\u552f\u7f8e\u8bf1\u60d1\u3002",
+      "qrshare_product_name": "\u6c64\u59c6\u798f\u7279\u70c8\u7130\u5e7b\u9b45\u5507\u818f3g\uff0c\u53cc\u5507\u7acb\u4f53\u70ab\u4eae\uff0c\u552f\u7f8e\u8bf1\u60d1\u3002",
+      "short_name": "\u6c64\u59c6\u798f\u7279\u70c8\u7130\u5e7b\u9b45\u5507\u818f3g",
+      "product_id": "3741238",
+      "brand_id": "1548",
+      "category_id": "0",
+      "function_ids": [
+
+      ],
+      "discount": "-1",
+      "jumei_price": "359",
+      "market_price": "430",
+      "buyer_number": "354",
+      "popular": 0,
+      "display_price": "1",
+      "wish_number": "4020",
+      "start_time": "1500256800",
+      "end_time": "1500343199",
+      "show_category": "deal",
+      "warehouse_name": "",
+      "shipping_system_id": "",
+      "hash_id": "d170717p3741238",
+      "category": "product",
+      "is_deal_dx_enable": "0",
+      "with_new_image": "1",
+      "category_v3_1": "107",
+      "has_short_video": 0,
+      "is_combination": "0",
+      "is_slide": "",
+      "platform": "",
+      "show_tag": "new",
+      "tag_id": [
+
+      ],
+      "tag_ids": [
+
+      ],
+      "yqt_show": "0",
+      "deal_quality_num": "0",
+      "product_quality_num": "0",
+      "product_exposure": "0",
+      "deal_exposure": "0",
+      "deal_uv": "0",
+      "deal_sales_amount": "0.00",
+      "deal_buyer_numbers": "0.00",
+      "today_sales_volume": "40926",
+      "deal_quality_num_android": 6.61,
+      "deal_quality_num_iphone": "15.39",
+      "deal_exposure_android": "44327",
+      "deal_exposure_iphone": "96757",
+      "deal_sales_amount_android": "2931.16",
+      "deal_sales_amount_iphone": "14886.78",
+      "deal_buyer_numbers_android": "9",
+      "deal_buyer_numbers_iphone": "46",
+      "deal_uv_android": "1066",
+      "deal_uv_iphone": "3007",
+      "data_source": "[dealman]",
+      "remind_id": "b",
+      "live_info": null,
+      "sku_category": "H",
+      "is_dm": false,
+      "authorization": "",
+      "is_deal": 1,
+      "name_tag": {
+        "authorization": "",
+        "pre_or_presale": "",
+        "pre_or_presale_text": "",
+        "notice": ""
+      },
+      "time_desc": "",
+      "tip_desc": [
+        ""
+      ],
+      "stocks_alarm": false,
+      "status_tag": "",
+      "buried_type": "0",
+      "exposure_link": "",
+      "click_link": "",
+      "sort_quality_score": 6.61,
+      "tag_name": "new_product",
+      "image_url_set": {
+        "dx_image": {
+          "url": {
+            "320": "http:\/\/mp5.jmstatic.com\/product\/003\/741\/3741238_std\/3741238_dx_1154_400.jpg?_t=1499322445&imageView2\/2\/w\/320\/q\/90",
+            "480": "http:\/\/mp5.jmstatic.com\/product\/003\/741\/3741238_std\/3741238_dx_1154_400.jpg?_t=1499322445&imageView2\/2\/w\/480\/q\/90",
+            "640": "http:\/\/mp5.jmstatic.com\/product\/003\/741\/3741238_std\/3741238_dx_1154_400.jpg?_t=1499322445&imageView2\/2\/w\/640\/q\/90",
+            "800": "http:\/\/mp5.jmstatic.com\/product\/003\/741\/3741238_std\/3741238_dx_1154_400.jpg?_t=1499322445&imageView2\/2\/w\/800\/q\/90"
+          },
+          "rgb": "#FFFFFF"
+        }
+      },
+      "tag": "http:\/\/p0.jmstatic.com\/mobile\/deal\/tag\/v2\/default\/new_product_320_320.png",
+      "product_desc": "354\u4eba\u5df2\u8d2d\u4e70",
+      "live": [
+
+      ],
+      "video_info": [
+
+      ],
+      "url_schema": "jumeimall:\/\/page\/alldetail?platform=wap&itemid=d170717p3741238&type=jumei_deal&selltype=deallist&selllabel=home_main&sellparams=remind_id:b",
+      "sellparams": "remind_id:b",
+      "show_purchase_button": "1",
+      "h5_url": "http:\/\/h5.jumei.com\/product\/detail?item_id=d170717p3741238&type=jumei_deal"
+    },
+    {
+      "type": "global_deal",
+      "item_id": "ht170717p1775400t1",
+      "search_doc_id": "",
+      "status": "onsell",
+      "status_num": "1",
+      "selling_forms": "normal",
+      "settling_accounts_forms": "",
+      "name": "\u3010\u6cf0\u56fd\u4e00\u7ebf\u827a\u4eba\u5fa1\u7528\u3011mistine\u7fbd\u7ffc\u7c89\u997c\uff0c\u5de8\u906e\u7455\u5de8\u63a7\u6cb9\uff0c\u6d41\u6c57\u3001\u6d41\u6cea\u4e0d\u6d41\u5986\uff01",
+      "qrshare_product_name": "\u3010\u6cf0\u56fd\u4e00\u7ebf\u827a\u4eba\u5fa1\u7528\u3011mistine\u7fbd\u7ffc\u7c89\u997c\uff0c\u5de8\u906e\u7455\u5de8\u63a7\u6cb9\uff0c\u6d41\u6c57\u3001\u6d41\u6cea\u4e0d\u6d41\u5986\uff01",
+      "short_name": "MISTINE \u8584\u7eb1\u7fbd\u7ffc\u7c89\u997c10g",
+      "product_id": "1775400",
+      "brand_id": "9511",
+      "category_id": "0",
+      "function_ids": [
+
+      ],
+      "discount": "-1",
+      "jumei_price": "49.9",
+      "market_price": "69",
+      "buyer_number": "1107",
+      "popular": 0,
+      "display_price": "1",
+      "wish_number": "4021",
+      "start_time": "1500256800",
+      "end_time": "1500343199",
+      "show_category": "deal",
+      "hash_id": "ht170717p1775400t1",
+      "category": "retail_global",
+      "warehouse_name": "",
+      "shipping_system_id": "2310",
+      "is_deal_dx_enable": "0",
+      "with_new_image": "1",
+      "has_short_video": 0,
+      "category_v3_1": "107",
+      "is_combination": "0",
+      "is_slide": "",
+      "platform": "",
+      "show_tag": "",
+      "tag_id": [
+
+      ],
+      "tag_ids": [
+
+      ],
+      "yqt_show": "0",
+      "price_detail": {
+        "title": "\u4ef7\u683c\u8be6\u60c5",
+        "desp": "\u8d27\u4ef7 44.59 + \u7a0e\u4ef7 5.31\uff08\u589e\u503c\u7a0e\u3001\u6d88\u8d39\u7a0e\uff09"
+      },
+      "value_of_goods": "44.59",
+      "tax": "5.31",
+      "deal_quality_num": "0",
+      "product_quality_num": "0",
+      "product_exposure": "0",
+      "deal_exposure": "0",
+      "deal_uv": "0",
+      "deal_sales_amount": "0",
+      "deal_buyer_numbers": "0",
+      "today_sales_volume": "",
+      "deal_quality_num_android": 5.52,
+      "deal_quality_num_iphone": "6.69",
+      "deal_exposure_android": "54314",
+      "deal_exposure_iphone": "38132",
+      "deal_sales_amount_android": "2996.68",
+      "deal_sales_amount_iphone": "2551.92",
+      "deal_buyer_numbers_android": "64",
+      "deal_buyer_numbers_iphone": "54",
+      "deal_uv_android": "2164",
+      "deal_uv_iphone": "1059",
+      "data_source": "[top]",
+      "remind_id": "c",
+      "live_info": null,
+      "sku_category": "global_thailand",
+      "foreign_language_name": "MISTINE WINGS EXTRA COVER SUPER POWDER SPA25 PA++",
+      "abroad_price_foreign": "1",
+      "jumei_price_foreign": "8.05",
+      "abroad_price": "6.2",
+      "area_currency_symbol": "$",
+      "area_currency_symbol_location": "1",
+      "area_code": "29",
+      "area_name": "\u7f8e\u56fd",
+      "is_dm": false,
+      "authorization": "",
+      "is_deal": 1,
+      "name_tag": {
+        "authorization": "",
+        "pre_or_presale": "",
+        "pre_or_presale_text": "",
+        "notice": ""
+      },
+      "time_desc": "",
+      "tip_desc": [
+        "\u6781\u901f\u514d\u7a0e"
+      ],
+      "stocks_alarm": false,
+      "status_tag": "",
+      "buried_type": "0",
+      "exposure_link": "",
+      "click_link": "",
+      "sort_quality_score": 5.52,
+      "tag_name": "",
+      "image_url_set": {
+        "dx_image": {
+          "url": {
+            "320": "http:\/\/mp5.jmstatic.com\/product\/001\/775\/1775400_std\/1775400_dx_1154_400.jpg?_t=1482717031&imageView2\/2\/w\/320\/q\/90",
+            "480": "http:\/\/mp4.jmstatic.com\/product\/001\/775\/1775400_std\/1775400_dx_1154_400.jpg@base@tag=imgScale&w=480&q=90?_t=1482717031",
+            "640": "http:\/\/mp7.jmstatic.com\/product\/001\/775\/1775400_std\/1775400_dx_1154_400.jpg@base@tag=imgScale&w=640&q=90?_t=1482717031",
+            "800": "http:\/\/mp5.jmstatic.com\/product\/001\/775\/1775400_std\/1775400_dx_1154_400.jpg?_t=1482717031&imageView2\/2\/w\/800\/q\/90"
+          },
+          "rgb": "#FFFFFF"
+        }
+      },
+      "tag": "",
+      "area_icon": {
+        "320": "http:\/\/p0.jmstatic.com\/banner\/area\/000\/000\/029.jpg",
+        "480": "http:\/\/p0.jmstatic.com\/banner\/area\/000\/000\/029.jpg",
+        "640": "http:\/\/p0.jmstatic.com\/banner\/area\/000\/000\/029.jpg",
+        "800": "http:\/\/p0.jmstatic.com\/banner\/area\/000\/000\/029.jpg"
+      },
+      "product_desc": "1107\u4eba\u5df2\u8d2d\u4e70",
+      "live": [
+
+      ],
+      "video_info": [
+
+      ],
+      "url_schema": "jumeimall:\/\/page\/alldetail?platform=wap&itemid=ht170717p1775400t1&type=global_deal&selltype=deallist&selllabel=home_main&sellparams=remind_id:c",
+      "sellparams": "remind_id:c",
+      "show_purchase_button": "1",
+      "h5_url": "http:\/\/h5.jumei.com\/product\/detail?item_id=ht170717p1775400t1&type=global_deal"
+    },
+    {
+      "type": "global_deal",
+      "item_id": "ht170717p1308285t2",
+      "search_doc_id": "",
+      "status": "onsell",
+      "status_num": "1",
+      "selling_forms": "normal",
+      "settling_accounts_forms": "",
+      "name": "\u3010\u654f\u611f\u808c\u5fc5\u5907\u3011\u8d1d\u5fb7\u739b\u8212\u598d\u5378\u5986\u6c34500ml,\u5378\u9664\u5f69\u5986\u6b8b\u7559,\u5378\u5986+\u62a4\u80a4\u4e00\u8d77\u641e\u5b9a!",
+      "qrshare_product_name": "\u3010\u654f\u611f\u808c\u5fc5\u5907\u3011\u8d1d\u5fb7\u739b\u8212\u598d\u5378\u5986\u6c34500ml,\u5378\u9664\u5f69\u5986\u6b8b\u7559,\u5378\u5986+\u62a4\u80a4\u4e00\u8d77\u641e\u5b9a!",
+      "short_name": "\u8d1d\u5fb7\u739b\u6df1\u5c42\u8212\u598d\u5378\u5986\u6c34500ml",
+      "product_id": "1308285",
+      "brand_id": "296",
+      "category_id": "0",
+      "function_ids": [
+
+      ],
+      "discount": "-1",
+      "jumei_price": "118",
+      "market_price": "228",
+      "buyer_number": "1133",
+      "popular": 0,
+      "display_price": "1",
+      "wish_number": "1308",
+      "start_time": "1500256800",
+      "end_time": "1500343199",
+      "show_category": "special",
+      "hash_id": "ht170717p1308285t2",
+      "category": "retail_global",
+      "warehouse_name": "",
+      "shipping_system_id": "2310",
+      "is_deal_dx_enable": "0",
+      "with_new_image": "1",
+      "has_short_video": 0,
+      "category_v3_1": "107",
+      "is_combination": "0",
+      "is_slide": "",
+      "platform": "",
+      "show_tag": "",
+      "tag_id": [
+
+      ],
+      "tag_ids": [
+
+      ],
+      "yqt_show": "0",
+      "price_detail": {
+        "title": "\u4ef7\u683c\u8be6\u60c5",
+        "desp": "\u8d27\u4ef7 105.45 + \u7a0e\u4ef7 12.55\uff08\u589e\u503c\u7a0e\u3001\u6d88\u8d39\u7a0e\uff09"
+      },
+      "value_of_goods": "105.45",
+      "tax": "12.55",
+      "deal_quality_num": "0",
+      "product_quality_num": "0",
+      "product_exposure": "0",
+      "deal_exposure": "0",
+      "deal_uv": "0",
+      "deal_sales_amount": "0",
+      "deal_buyer_numbers": "0",
+      "today_sales_volume": "",
+      "deal_quality_num_android": 5.45,
+      "deal_quality_num_iphone": "11.91",
+      "deal_exposure_android": "28126",
+      "deal_exposure_iphone": "27714",
+      "deal_sales_amount_android": "1531.52",
+      "deal_sales_amount_iphone": "3301.66",
+      "deal_buyer_numbers_android": "14",
+      "deal_buyer_numbers_iphone": "29",
+      "deal_uv_android": "468",
+      "deal_uv_iphone": "451",
+      "data_source": "[top]",
+      "remind_id": "c",
+      "live_info": null,
+      "sku_category": "global_western",
+      "foreign_language_name": "Bioderma Sebium H2O Micelle Solution Purifying Cleanser \uff08Red Cap\uff09500ml",
+      "abroad_price_foreign": "1",
+      "jumei_price_foreign": "19.05",
+      "abroad_price": "6.2",
+      "area_currency_symbol": "$",
+      "area_currency_symbol_location": "1",
+      "area_code": "29",
+      "area_name": "\u7f8e\u56fd",
+      "is_dm": false,
+      "authorization": "",
+      "is_deal": 1,
+      "name_tag": {
+        "authorization": "",
+        "pre_or_presale": "",
+        "pre_or_presale_text": "",
+        "notice": ""
+      },
+      "time_desc": "",
+      "tip_desc": [
+        "\u6781\u901f\u514d\u7a0e"
+      ],
+      "stocks_alarm": false,
+      "status_tag": "",
+      "buried_type": "0",
+      "exposure_link": "",
+      "click_link": "",
+      "sort_quality_score": 5.45,
+      "tag_name": "",
+      "image_url_set": {
+        "dx_image": {
+          "url": {
+            "320": "http:\/\/mp5.jmstatic.com\/product\/001\/308\/1308285_std\/1308285_dx_1154_400.jpg?_t=1496891308&imageView2\/2\/w\/320\/q\/90",
+            "480": "http:\/\/mp5.jmstatic.com\/product\/001\/308\/1308285_std\/1308285_dx_1154_400.jpg?_t=1496891308&imageView2\/2\/w\/480\/q\/90",
+            "640": "http:\/\/mp5.jmstatic.com\/product\/001\/308\/1308285_std\/1308285_dx_1154_400.jpg?_t=1496891308&imageView2\/2\/w\/640\/q\/90",
+            "800": "http:\/\/mp5.jmstatic.com\/product\/001\/308\/1308285_std\/1308285_dx_1154_400.jpg?_t=1496891308&imageView2\/2\/w\/800\/q\/90"
+          },
+          "rgb": "#FFFFFF"
+        }
+      },
+      "tag": "",
+      "area_icon": {
+        "320": "http:\/\/p0.jmstatic.com\/banner\/area\/000\/000\/029.jpg",
+        "480": "http:\/\/p0.jmstatic.com\/banner\/area\/000\/000\/029.jpg",
+        "640": "http:\/\/p0.jmstatic.com\/banner\/area\/000\/000\/029.jpg",
+        "800": "http:\/\/p0.jmstatic.com\/banner\/area\/000\/000\/029.jpg"
+      },
+      "product_desc": "1133\u4eba\u5df2\u8d2d\u4e70",
+      "live": [
+
+      ],
+      "video_info": [
+
+      ],
+      "url_schema": "jumeimall:\/\/page\/alldetail?platform=wap&itemid=ht170717p1308285t2&type=global_deal&selltype=deallist&selllabel=home_main&sellparams=remind_id:c",
+      "sellparams": "remind_id:c",
+      "show_purchase_button": "1",
+      "h5_url": "http:\/\/h5.jumei.com\/product\/detail?item_id=ht170717p1308285t2&type=global_deal"
+    },
+    {
+      "type": "jumei_deal",
+      "item_id": "d170716p2181328zc",
+      "search_doc_id": "",
+      "status": "onsell",
+      "status_num": "1",
+      "selling_forms": "normal",
+      "settling_accounts_forms": "",
+      "name": "\u3010\u6d45\u8272\u7248\u739b\u838e\u62c9\u3011\u7537\u4eba\u628a\u6301\u4e0d\u4f4f\u7684\u3010SM\u8272\u53f7\u3011\uff0c\u5fcd\u4e0d\u4f4f\u60f3\u8981\u7761\u4f60\u7684\u51b2\u52a8~",
+      "qrshare_product_name": "\u3010\u6d45\u8272\u7248\u739b\u838e\u62c9\u3011\u7537\u4eba\u628a\u6301\u4e0d\u4f4f\u7684\u3010SM\u8272\u53f7\u3011\uff0c\u5fcd\u4e0d\u4f4f\u60f3\u8981\u7761\u4f60\u7684\u51b2\u52a8~",
+      "short_name": "\u51ef\u7b63\u4e1d\u6c40\u5507\u60c5\u5507\u818f \u739b\u838e\u62c9\u7ea23.5g",
+      "product_id": "2181328",
+      "brand_id": "1408",
+      "category_id": "0",
+      "function_ids": [
+
+      ],
+      "discount": "-1",
+      "jumei_price": "59",
+      "market_price": "169",
+      "buyer_number": "764",
+      "popular": 0,
+      "display_price": "1",
+      "wish_number": "1577",
+      "start_time": "1500170400",
+      "end_time": "1500343199",
+      "show_category": "deal",
+      "warehouse_name": "",
+      "shipping_system_id": "",
+      "hash_id": "d170716p2181328zc",
+      "category": "product",
+      "is_deal_dx_enable": "0",
+      "with_new_image": "1",
+      "category_v3_1": "107",
+      "has_short_video": 0,
+      "is_combination": "0",
+      "is_slide": "",
+      "platform": "",
+      "show_tag": "new",
+      "tag_id": [
+
+      ],
+      "tag_ids": [
+
+      ],
+      "yqt_show": "0",
+      "deal_quality_num": "0",
+      "product_quality_num": "0",
+      "product_exposure": "5",
+      "deal_exposure": "0",
+      "deal_uv": "0",
+      "deal_sales_amount": "0.00",
+      "deal_buyer_numbers": "0.00",
+      "today_sales_volume": "17464",
+      "deal_quality_num_android": 5.296,
+      "deal_quality_num_iphone": "1.94",
+      "deal_exposure_android": "47814",
+      "deal_exposure_iphone": "32993",
+      "deal_sales_amount_android": "1584.73",
+      "deal_sales_amount_iphone": "640.96",
+      "deal_buyer_numbers_android": "42",
+      "deal_buyer_numbers_iphone": "18",
+      "deal_uv_android": "1776",
+      "deal_uv_iphone": "770",
+      "data_source": "[dealman]",
+      "remind_id": "b",
+      "live_info": {
+        "anchor_uid": "108619065",
+        "live_start_time": "1484359200",
+        "live_end_time": "1484409599"
+      },
+      "sku_category": "obm",
+      "is_dm": false,
+      "authorization": "",
+      "is_deal": 1,
+      "name_tag": {
+        "authorization": "",
+        "pre_or_presale": "",
+        "pre_or_presale_text": "",
+        "notice": ""
+      },
+      "time_desc": "",
+      "tip_desc": [
+        "\u5e26\u9632\u4f2a\u7801"
+      ],
+      "stocks_alarm": false,
+      "status_tag": "",
+      "buried_type": "0",
+      "exposure_link": "",
+      "click_link": "",
+      "sort_quality_score": 5.296,
+      "tag_name": "aca_alliance",
+      "image_url_set": {
+        "dx_image": {
+          "url": {
+            "320": "http:\/\/mp5.jmstatic.com\/product\/002\/181\/2181328_std\/2181328_dx_1154_400.jpg?_t=1460365337&imageView2\/2\/w\/320\/q\/90",
+            "480": "http:\/\/mp5.jmstatic.com\/product\/002\/181\/2181328_std\/2181328_dx_1154_400.jpg?_t=1460365337&imageView2\/2\/w\/480\/q\/90",
+            "640": "http:\/\/mp5.jmstatic.com\/product\/002\/181\/2181328_std\/2181328_dx_1154_400.jpg?_t=1460365337&imageView2\/2\/w\/640\/q\/90",
+            "800": "http:\/\/mp5.jmstatic.com\/product\/002\/181\/2181328_std\/2181328_dx_1154_400.jpg?_t=1460365337&imageView2\/2\/w\/800\/q\/90"
+          },
+          "rgb": "#FFFFFF"
+        }
+      },
+      "tag": "http:\/\/p0.jmstatic.com\/mobile\/deal\/tag\/v2\/default\/aca_alliance_320_320.png",
+      "product_desc": "764\u4eba\u5df2\u8d2d\u4e70",
+      "live": [
+
+      ],
+      "video_info": [
+
+      ],
+      "url_schema": "jumeimall:\/\/page\/alldetail?platform=wap&itemid=d170716p2181328zc&type=jumei_deal&selltype=deallist&selllabel=home_main&sellparams=remind_id:b",
+      "sellparams": "remind_id:b",
+      "show_purchase_button": "1",
+      "h5_url": "http:\/\/h5.jumei.com\/product\/detail?item_id=d170716p2181328zc&type=jumei_deal"
+    }
+  ],
+  "item_per_page": 20,
+  "page_count": 10,
+  "item_count": 188,
+  "page": 1,
+  "page_type": "home_deal_global_list",
+  "item_type": "formal",
+  "page_key": 1500285000,
+  "backup": "",
+  "call": "http:\/\/s.mobile.jumei.com\/api\/v1\/deal\/dealactlist?card_id=4057&page=2&page_key=1500285000&platform=wap&client_v=1.0&user_tag_id=0&source=touch&site=bj",
+  "timestamp": "2017-07-17 17:51:41"
+}

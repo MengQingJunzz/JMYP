@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="css/index2.css">
+    <link rel="stylesheet" href="css/mainFoot.css">
+    <link rel="stylesheet" href="//at.alicdn.com/t/font_79xhrgnzv14qjjor.css"/>
+    <script src="js/jquery.js"></script>
+    <script src="js/jquery3.2.0.js"></script>
+    <script src="js/mainFoot.js"></script>
+
+</head>
+<body>
+   <div class="nav-con">
+       <div class="nav-include">
+           <div class="list-tab">
+               <a class="active" data-tab="coutuan_home">推荐<span></span></a>
+               <a class="" data-tab="coutuan_baby">母婴健康<span></span></a>
+               <a class="" data-tab="coutuan_makeup">美妆<span></span></a>
+               <a class="" data-tab="coutuan_furniture">家居<span></span></a>
+               <a class="" data-tab="coutuan_food">食品保健<span></span></a>
+               <a class="" data-tab="coutuan_ladies">女装<span></span></a>
+               <a class="" data-tab="coutuan_shose">鞋类<span></span></a>
+               <a class="" data-tab="coutuan_underwear">内衣<span></span></a>
+               <a class="" data-tab="coutuan_jewellery">饰品配饰<span></span></a>
+               <a class="" data-tab="coutuan_bag">礼品箱包<span></span></a>
+               <a class="" data-tab="coutuan_sports">运动户外<span></span></a>
+               <a class="" data-tab="coutuan_others">其他<span></span></a>
+               <a class="" data-tab="coutuan_pre">下期预告<span></span></a>
+           </div>
+       </div>
+   </div>
+
+
+   <div class="tab-con tabcon-ptop">
+       <div class="moudule-container tab-on" id="coutuan_home"></div>
+       <!--<div class="moudule-container" tab="coutuan_baby" style="display: none">-->
+       <!--</div>-->
+
+   </div>
+
+   <div id="goto-Top" class="go_to">
+       <img src="http://f0.jmstatic.com/btstatic/h5/index/go_top.png">
+   </div>
+
+   <script id="productTemp1" type="text/html">
+       <section class="product-item">
+           <ul class="product-con" tab="coutuan_home">
+               <li>
+                   <a class="goods" href= "{{url}}">
+                       <div class="people-number">{{buyer_number_text }}</div>
+                       <div class="goods-topsmall">
+                           <img src="{{image}}">
+                       </div>
+                       <div class="goods-middle">
+                           <span class="goods-num">{{group_name_tag }}</span>
+                           {{short_name }}
+                       </div>
+                       <div class="goods-foot">
+                           <div class="price-left">
+                               <span class="ct-price">{{jumei_price }}</span>
+                               <span class="sc-price">{{market_price }}</span>
+                               <span class="jm-price">{{single_price }}</span>
+                           </div>
+                           <div class="time-right timer" data-time="{{surplus_time }}">
+                               <span class="sy-time" style="display: none">仅剩</span>
+                               <span class="goods-btn">去开团</span>
+                           </div>
+                       </div>
+                   </a>
+               </li>
+           </ul>
+       </section>
+
+  </script>
+
+<script>
+    $(".list-tab a").on("click",function () {
+        $(".list-tab a").eq($(this).index()).addClass("active").siblings().removeClass("active");
+//        $(".moudule-container").hide().eq($(this).index()).show();
+    })
+
+
+    $(window).scroll(function(e) {
+       if($(window).scrollTop()>=400){
+           console.log($(window).scrollTop)
+           $('.go_to').css("display","block")
+       }else {
+           $('.go_to').css("display","none")
+       }
+
+    });
+    $('.go_to').on("click",function () {
+        $('body').animate({
+            scrollTop: 0,
+        },300)
+    });
+
+    var Conatiner=document.getElementsByClassName("moudule-container");
+    var listab=document.getElementsByClassName("list-tab")[0];
+    var itema=listab.getElementsByTagName("a");
+    for(var i=0;i<itema.length;i++){
+//        itema[i].index=i;
+        itema[i].onclick=function () {
+          for(var i=0;i<Conatiner.length;i++){
+                 Conatiner[i].classList.remove("tab-on");
+//                 console.log(this);
+              if(this.getAttribute('data-tab').indexOf(Conatiner[i].id) !=-1){
+                  Conatiner[i].classList.add("tab-on");
+              }
+          }
+        }
+    }
+</script>
+<script src="js/artTemplate.js"></script>
+<script src="js/product.js"></script>
+
+</body>
+</html>
